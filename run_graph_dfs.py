@@ -10,7 +10,7 @@ from classical_solver import classical_solver
 solutions = {}
 
 # Get an event
-f = open("velojson/0.json")
+f = open("velojson/23.json")
 json_data = json.loads(f.read())
 event = em.event(json_data)
 f.close()
@@ -22,6 +22,7 @@ solutions["classic"] = classical.solve(event)
 # Solve with the DFS method
 dfs = graph_dfs()
 solutions["dfs"] = dfs.solve(event)
+print(solutions["dfs"])
 
 # Validate the solutions
 for k, v in iter(sorted(solutions.items())):

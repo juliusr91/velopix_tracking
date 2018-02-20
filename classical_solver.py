@@ -44,7 +44,7 @@ class classical_solver:
   def solve(self, event):
     print("Invoking classic solver with\n max slopes: %s\n max tolerance: %s\n\
  max scatter: %s\n" % \
- (self.__max_slopes, self.__max_tolerance, self.__max_scatter))
+          (self.__max_slopes, self.__max_tolerance, self.__max_scatter))
 
     # We are searching for tracks
     # We will keep a list of used hits to avoid clones
@@ -56,7 +56,7 @@ class classical_solver:
     for s0, s1, starting_sensor_index in zip(reversed(event.sensors[3:]), reversed(event.sensors[1:-2]), reversed(range(0, len(event.sensors) - 3))):
       for h0 in [h0 for h0 in s0 if h0.id not in used_hits]:
         for h1 in [h1 for h1 in s1 if h1.id not in used_hits]:
-          
+
           if self.are_compatible(h0, h1):
             # We have a seed, let's attempt to form a track
             # with a hit from the following three sensors
@@ -82,7 +82,7 @@ class classical_solver:
                 missed_stations   += 1
                 for h2 in event.sensors[sensor_index_iter]:
                   if self.check_tolerance(forming_track.hits[-2], forming_track.hits[-1], h2):
-                    forming_track.add_hit(h2)
+                    forming_track.add_hit(h2, 0)
                     missed_stations = 0
                     break
 

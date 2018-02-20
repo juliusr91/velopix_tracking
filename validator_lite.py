@@ -326,6 +326,7 @@ def validate_print(events_json_data, tracks_list):
                     , lambda p: p.islong and p.over5 and p.fromb and (abs(p.pid) != 11))
 
     nevents = len(tracking_data)
+    # print("me test printing: ", n_tracks, n_allghsots, 100.*avg_ghost_rate/nevents, )
 
     #print("Average reconstruction efficiency: %6.2f%% (%d #tracks of %d reconstructible particles)"%(100*avg_recoeff/nevents, n_allreco, n_allparticles))
     print("%d tracks including %8d ghosts (%5.1f%%). Event average %5.1f%%"

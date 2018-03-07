@@ -161,10 +161,11 @@ class CellularAutomaton(object):
         """
         check if any left neighbour has the same state as the current doublet
         """
-        for neighbour in doublet.left_neighbours:
+        for index2, neighbour in enumerate(doublet.left_neighbours):
             state_equality = int(self.doublets[index - 2][neighbour[0]][neighbour[1]].state == doublet.state)
             doublet.new_state += state_equality
-            return state_equality
+            if state_equality:
+                return state_equality
 
         return 0
 
@@ -323,33 +324,33 @@ class CellularAutomaton(object):
         # 1. Creates all possible and applicable doublets
         start = time.clock()
         self.make_doublets(event)
-        # print("making doublets took: ", time.clock()-start)
+        print("making doublets took: ", time.clock()-start)
 
         #2. searches for all the left neighbours of these doublets
         start = time.clock()
         self.make_left_neighbours()
-        # print("making neighbours took: ", time.clock() - start)
+        print("making neighbours took: ", time.clock() - start)
 
         #3. Runs the Cellular Automaton (CA)
         start = time.clock()
         self.Ca()
-        # print("ca took: ", time.clock() - start)
+        print("ca took: ", time.clock() - start)
 
         #4. Extract all possible tracks of the CA
         start = time.clock()
         self.extract_tracks()
         # print(self.collected_tracks)
-        # print("extracting took: ", time.clock() - start)
+        print("extracting took: ", time.clock() - start)
 
         # 5. remove short tracks
         start = time.clock()
         self.remove_shorttracks(2) #keeps everything longer than 2
-        # print("removing shorttracks took: ", time.clock() - start)
+        print("removing shorttracks took: ", time.clock() - start)
 
         #6. Removes Clones and Ghost Tracks
         start = time.clock()
         self.remove_ghosts_clones()  # keeps everything longer than 2
-        # print("removing ghost_clones took: ", time.clock() - start)
+        print("removing ghost_clones took: ", time.clock() - start)
 
 
         #Possible visualisation of the segments and the tracks found

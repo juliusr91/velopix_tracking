@@ -15,7 +15,7 @@ solutions = {}
 
 
 # For 1 of the files; algorithm runs quickly
-f = open("velojson/19.json")
+f = open("velojson/9.json")
 json_data = json.loads(f.read())
 event = em.event(json_data)
 f.close()

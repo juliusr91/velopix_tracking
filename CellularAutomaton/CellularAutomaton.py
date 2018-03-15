@@ -200,6 +200,9 @@ class CellularAutomaton(object):
         5. calculates the chi2 for the extension, and adds the segment to the track
         6. recursively until all possible tracks have been created and can be returned
         """
+        #TODO dont we have the left neighbours already?
+
+
         local_track = copy.deepcopy(track)
         local_tracks = []
         in_loop = False

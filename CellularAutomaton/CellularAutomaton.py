@@ -6,14 +6,15 @@ import sys
 import copy
 from sklearn.decomposition import PCA
 
+NEXT_SENSOR = 2
+SECOND_NEXT_SENSOR = 4
 
 class CellularAutomaton(object):
 
-    def __init__(self, max_slopes=(0.7, 0.7), max_tolerance=(0.4, 0.4), max_scatter=0.4, allowed_skip_sensors=1):
+    def __init__(self, max_slopes=(0.7, 0.7), max_tolerance=(0.4, 0.4), max_scatter=0.4):
         self.__max_slopes = max_slopes
         self.__max_tolerance = max_tolerance
         self.__max_scatter = max_scatter
-        self.__allowed_skip_sensors = allowed_skip_sensors
         self.doublets = []
 
     def are_compatible_in_x(self, hit_0, hit_1):
@@ -104,11 +105,11 @@ class CellularAutomaton(object):
         """
         self.doublets = []
 
-        for index, sensor in enumerate(event.sensors[:-2]): #for each sensor
+        for index, sensor in enumerate(event.sensors[:-NEXT_SENSOR]): #for each sensor
             sensor_doublets = []
 
             #normal sensors
-            for index2, next_hit in enumerate(event.sensors[index + 2]): #for each right neighbour
+            for index2, next_hit in enumerate(event.sensors[index + NEXT_SENSOR]): #for each right neighbour
                 hit_doublets = []
                 for hit in sensor:  # for each hit in each sensor
                     if self.are_compatible(hit, next_hit):
@@ -117,8 +118,8 @@ class CellularAutomaton(object):
                 sensor_doublets.append(hit_doublets)
 
             #skipped sensors
-            if index < len(event.sensors) - 4:
-                for index3, next_hit in enumerate(event.sensors[index + 4]): #for each next right neighbour
+            if index < len(event.sensors) - SECOND_NEXT_SENSOR:
+                for index3, next_hit in enumerate(event.sensors[index + SECOND_NEXT_SENSOR]): #for each next right neighbour
                     hit_doublets = []
                     for hit in sensor:  # for each hit in each sensor
                         if self.are_compatible(hit, next_hit):
@@ -139,20 +140,32 @@ class CellularAutomaton(object):
         """
         for a given doublet find all left neighbours and append the index to the neighbours list in the doublet object
         """
-        for hit_index, left_doublets in enumerate(self.doublets[index - 2]):
+        for hit_index, left_doublets in enumerate(self.doublets[index - NEXT_SENSOR]):
             for doublet_index, left_doublet in enumerate(left_doublets):
 
                 if self.calculate_shared_point(doublet, left_doublet):
                     if self.check_tolerance(left_doublet.starting_point, left_doublet.ending_point, doublet.ending_point):
-                        doublet.left_neighbours.append([hit_index, doublet_index])
+                        doublet.left_neighbours.append([index - NEXT_SENSOR, hit_index, doublet_index])
                 else:
                     break
+
+        #also find long left neighbours not only short ones
+        if index >= SECOND_NEXT_SENSOR:
+            for hit_index, left_doublets in enumerate(self.doublets[index - SECOND_NEXT_SENSOR]):
+                for doublet_index, left_doublet in enumerate(left_doublets):
+
+                    if self.calculate_shared_point(doublet, left_doublet):
+                        if self.check_tolerance(left_doublet.starting_point, left_doublet.ending_point,
+                                                doublet.ending_point):
+                            doublet.left_neighbours.append([index - SECOND_NEXT_SENSOR, hit_index, doublet_index])
+                    else:
+                        break
 
     def make_left_neighbours(self):
         """
         loop over all doublets and find all left neighbours
         """
-        for index, sensor in enumerate(self.doublets[2:], 2):
+        for index, sensor in enumerate(self.doublets[NEXT_SENSOR:], NEXT_SENSOR):
             for doublets in sensor:
                 for doublet in doublets:
                     self.find_left_neighbours(doublet, index)
@@ -162,7 +175,7 @@ class CellularAutomaton(object):
         check if any left neighbour has the same state as the current doublet
         """
         for index2, neighbour in enumerate(doublet.left_neighbours):
-            state_equality = int(self.doublets[index - 2][neighbour[0]][neighbour[1]].state == doublet.state)
+            state_equality = int(self.doublets[neighbour[0]][neighbour[1]][neighbour[2]].state == doublet.state)
             doublet.new_state += state_equality
             if state_equality:
                 return state_equality
@@ -176,13 +189,13 @@ class CellularAutomaton(object):
         """
         while True:
             changes = int(0)
-            for index, sensor in enumerate(self.doublets[2:], 2):
+            for index, sensor in enumerate(self.doublets[NEXT_SENSOR:], NEXT_SENSOR):
                 for doublets in sensor:
                     for doublet in doublets:
                         changes += self.check_neighbour(doublet, index)
             print(changes, file=sys.stderr)
 
-            for index, sensor in enumerate(self.doublets[2:]):
+            for index, sensor in enumerate(self.doublets[NEXT_SENSOR:]):
                 for doublets in sensor:
                     for doublet in doublets:
                         doublet.state = doublet.new_state
@@ -200,13 +213,13 @@ class CellularAutomaton(object):
         5. calculates the chi2 for the extension, and adds the segment to the track
         6. recursively until all possible tracks have been created and can be returned
         """
-        #TODO dont we have the left neighbours already?
 
 
         local_track = copy.deepcopy(track)
         local_tracks = []
         in_loop = False
 
+        #TODO dont we have the left neighbours already?
         index = index - 2
         n_doublets = []
         for previous_doublets in self.doublets[index]:

@@ -1,0 +1,299 @@
+CA method validation
+118 tracks including        2 ghosts (  1.7%). Event average   1.7%
+              velo :      107 from      114 ( 93.9%,  93.9%)        3 clones (  2.80%), purity: ( 98.92%,  98.92%),  hitEff: ( 95.37%,  95.37%)
+              long :       38 from       39 ( 97.4%,  97.4%)        2 clones (  5.26%), purity: ( 97.20%,  97.20%),  hitEff: ( 91.92%,  91.92%)
+         long>5GeV :       29 from       30 ( 96.7%,  96.7%)        2 clones (  6.90%), purity: ( 97.03%,  97.03%),  hitEff: ( 90.86%,  90.86%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+None
+        long_fromb :       13 from       13 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 98.46%,  98.46%),  hitEff: ( 96.77%,  96.77%)
+   long_fromb>5GeV :       12 from       12 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 98.16%,  98.16%)
+
+CA method validation
+530 tracks including       28 ghosts (  5.3%). Event average   5.3%
+              velo :      455 from      501 ( 90.8%,  90.8%)       23 clones (  5.05%), purity: ( 98.66%,  98.66%),  hitEff: ( 91.76%,  91.76%)
+              long :      150 from      152 ( 98.7%,  98.7%)       13 clones (  8.67%), purity: ( 98.14%,  98.14%),  hitEff: ( 88.55%,  88.55%)
+         long>5GeV :      104 from      105 ( 99.0%,  99.0%)       10 clones (  9.62%), purity: ( 97.99%,  97.99%),  hitEff: ( 88.48%,  88.48%)
+      long_strange :        9 from       11 ( 81.8%,  81.8%)        0 clones (  0.00%), purity: ( 95.83%,  95.83%),  hitEff: ( 95.31%,  95.31%)
+ long_strange>5GeV :        5 from        6 ( 83.3%,  83.3%)        0 clones (  0.00%), purity: ( 97.50%,  97.50%),  hitEff: ( 94.64%,  94.64%)
+        long_fromb :        5 from        6 ( 83.3%,  83.3%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 98.46%,  98.46%)
+   long_fromb>5GeV :        4 from        5 ( 80.0%,  80.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 98.08%,  98.08%)
+
+CA method validation
+413 tracks including       12 ghosts (  2.9%). Event average   2.9%
+              velo :      350 from      383 ( 91.4%,  91.4%)       21 clones (  6.00%), purity: ( 98.52%,  98.52%),  hitEff: ( 90.62%,  90.62%)
+              long :      117 from      118 ( 99.2%,  99.2%)       14 clones ( 11.97%), purity: ( 98.42%,  98.42%),  hitEff: ( 86.56%,  86.56%)
+         long>5GeV :       90 from       90 ( 100.0%,  100.0%)       12 clones ( 13.33%), purity: ( 98.11%,  98.11%),  hitEff: ( 85.10%,  85.10%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 66.67%,  66.67%)
+ long_strange>5GeV :        1 from        1 ( 100.0%,  100.0%)        1 clones ( 100.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 50.00%,  50.00%)
+        long_fromb :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 91.67%,  91.67%)
+   long_fromb>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 91.67%,  91.67%)
+
+CA method validation
+388 tracks including       21 ghosts (  5.4%). Event average   5.4%
+              velo :      342 from      369 ( 92.7%,  92.7%)       14 clones (  4.09%), purity: ( 98.92%,  98.92%),  hitEff: ( 92.84%,  92.84%)
+              long :       89 from       91 ( 97.8%,  97.8%)        9 clones ( 10.11%), purity: ( 99.11%,  99.11%),  hitEff: ( 87.77%,  87.77%)
+         long>5GeV :       60 from       61 ( 98.4%,  98.4%)        7 clones ( 11.67%), purity: ( 99.32%,  99.32%),  hitEff: ( 87.04%,  87.04%)
+      long_strange :        5 from        5 ( 100.0%,  100.0%)        2 clones ( 40.00%), purity: ( 98.57%,  98.57%),  hitEff: ( 72.53%,  72.53%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 66.67%,  66.67%)
+        long_fromb :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 97.22%,  97.22%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 97.22%,  97.22%)
+
+CA method validation
+309 tracks including        5 ghosts (  1.6%). Event average   1.6%
+              velo :      274 from      287 ( 95.5%,  95.5%)       14 clones (  5.11%), purity: ( 99.08%,  99.08%),  hitEff: ( 91.81%,  91.81%)
+              long :       87 from       89 ( 97.8%,  97.8%)       10 clones ( 11.49%), purity: ( 99.05%,  99.05%),  hitEff: ( 87.50%,  87.50%)
+         long>5GeV :       58 from       59 ( 98.3%,  98.3%)        7 clones ( 12.07%), purity: ( 99.11%,  99.11%),  hitEff: ( 87.11%,  87.11%)
+      long_strange :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        4 from        4 ( 100.0%,  100.0%)        1 clones ( 25.00%), purity: ( 98.46%,  98.46%),  hitEff: ( 81.25%,  81.25%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%,  100.0%)        1 clones ( 33.33%), purity: ( 98.08%,  98.08%),  hitEff: ( 76.56%,  76.56%)
+
+CA method validation
+621 tracks including       43 ghosts (  6.9%). Event average   6.9%
+              velo :      535 from      572 ( 93.5%,  93.5%)       26 clones (  4.86%), purity: ( 98.12%,  98.12%),  hitEff: ( 90.76%,  90.76%)
+              long :      205 from      209 ( 98.1%,  98.1%)       15 clones (  7.32%), purity: ( 97.06%,  97.06%),  hitEff: ( 87.46%,  87.46%)
+         long>5GeV :      146 from      148 ( 98.6%,  98.6%)       10 clones (  6.85%), purity: ( 97.25%,  97.25%),  hitEff: ( 89.05%,  89.05%)
+      long_strange :        9 from        9 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 95.63%,  95.63%),  hitEff: ( 89.46%,  89.46%)
+ long_strange>5GeV :        8 from        8 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 95.09%,  95.09%),  hitEff: ( 92.31%,  92.31%)
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+
+CA method validation
+458 tracks including       62 ghosts ( 13.5%). Event average  13.5%
+              velo :      357 from      410 ( 87.1%,  87.1%)       27 clones (  7.56%), purity: ( 97.41%,  97.41%),  hitEff: ( 88.29%,  88.29%)
+              long :      134 from      141 ( 95.0%,  95.0%)       19 clones ( 14.18%), purity: ( 96.56%,  96.56%),  hitEff: ( 83.40%,  83.40%)
+         long>5GeV :       96 from      100 ( 96.0%,  96.0%)       13 clones ( 13.54%), purity: ( 96.79%,  96.79%),  hitEff: ( 83.22%,  83.22%)
+      long_strange :        8 from        8 ( 100.0%,  100.0%)        2 clones ( 25.00%), purity: ( 96.89%,  96.89%),  hitEff: ( 79.54%,  79.54%)
+ long_strange>5GeV :        6 from        6 ( 100.0%,  100.0%)        2 clones ( 33.33%), purity: ( 96.11%,  96.11%),  hitEff: ( 74.42%,  74.42%)
+        long_fromb :        6 from        6 ( 100.0%,  100.0%)        1 clones ( 16.67%), purity: ( 93.72%,  93.72%),  hitEff: ( 82.23%,  82.23%)
+   long_fromb>5GeV :        6 from        6 ( 100.0%,  100.0%)        1 clones ( 16.67%), purity: ( 93.72%,  93.72%),  hitEff: ( 82.23%,  82.23%)
+
+CA method validation
+106 tracks including        0 ghosts (  0.0%). Event average   0.0%
+              velo :       96 from      104 ( 92.3%,  92.3%)        6 clones (  6.25%), purity: ( 99.75%,  99.75%),  hitEff: ( 90.99%,  90.99%)
+              long :       37 from       37 ( 100.0%,  100.0%)        6 clones ( 16.22%), purity: ( 100.00%,  100.00%),  hitEff: ( 83.36%,  83.36%)
+         long>5GeV :       25 from       25 ( 100.0%,  100.0%)        4 clones ( 16.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 84.27%,  84.27%)
+None
+None
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        2 clones ( 40.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 68.57%,  68.57%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        2 clones ( 40.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 68.57%,  68.57%)
+
+CA method validation
+164 tracks including        3 ghosts (  1.8%). Event average   1.8%
+              velo :      149 from      161 ( 92.5%,  92.5%)        5 clones (  3.36%), purity: ( 99.00%,  99.00%),  hitEff: ( 93.28%,  93.28%)
+              long :       46 from       47 ( 97.9%,  97.9%)        2 clones (  4.35%), purity: ( 98.75%,  98.75%),  hitEff: ( 91.30%,  91.30%)
+         long>5GeV :       29 from       29 ( 100.0%,  100.0%)        1 clones (  3.45%), purity: ( 98.67%,  98.67%),  hitEff: ( 91.73%,  91.73%)
+None
+None
+        long_fromb :       10 from       10 ( 100.0%,  100.0%)        1 clones ( 10.00%), purity: ( 99.09%,  99.09%),  hitEff: ( 89.38%,  89.38%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%,  100.0%)        1 clones ( 14.29%), purity: ( 98.75%,  98.75%),  hitEff: ( 85.40%,  85.40%)
+
+CA method validation
+573 tracks including       40 ghosts (  7.0%). Event average   7.0%
+              velo :      497 from      531 ( 93.6%,  93.6%)       17 clones (  3.42%), purity: ( 98.09%,  98.09%),  hitEff: ( 92.60%,  92.60%)
+              long :      149 from      152 ( 98.0%,  98.0%)       14 clones (  9.40%), purity: ( 97.27%,  97.27%),  hitEff: ( 86.40%,  86.40%)
+         long>5GeV :      103 from      105 ( 98.1%,  98.1%)       10 clones (  9.71%), purity: ( 96.99%,  96.99%),  hitEff: ( 85.70%,  85.70%)
+      long_strange :        8 from        8 ( 100.0%,  100.0%)        1 clones ( 12.50%), purity: ( 94.54%,  94.54%),  hitEff: ( 84.09%,  84.09%)
+ long_strange>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 94.44%,  94.44%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        4 from        5 ( 80.0%,  80.0%)        0 clones (  0.00%), purity: ( 95.00%,  95.00%),  hitEff: ( 86.67%,  86.67%)
+   long_fromb>5GeV :        3 from        4 ( 75.0%,  75.0%)        0 clones (  0.00%), purity: ( 93.33%,  93.33%),  hitEff: ( 82.22%,  82.22%)
+
+CA method validation
+590 tracks including       31 ghosts (  5.3%). Event average   5.3%
+              velo :      505 from      535 ( 94.4%,  94.4%)       30 clones (  5.94%), purity: ( 98.45%,  98.45%),  hitEff: ( 90.32%,  90.32%)
+              long :      173 from      178 ( 97.2%,  97.2%)       16 clones (  9.25%), purity: ( 97.96%,  97.96%),  hitEff: ( 87.43%,  87.43%)
+         long>5GeV :      117 from      119 ( 98.3%,  98.3%)       10 clones (  8.55%), purity: ( 97.89%,  97.89%),  hitEff: ( 87.47%,  87.47%)
+      long_strange :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        5 from        6 ( 83.3%,  83.3%)        1 clones ( 20.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 78.89%,  78.89%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        1 clones ( 25.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 74.67%,  74.67%)
+
+CA method validation
+316 tracks including        4 ghosts (  1.3%). Event average   1.3%
+              velo :      285 from      301 ( 94.7%,  94.7%)       10 clones (  3.51%), purity: ( 98.98%,  98.98%),  hitEff: ( 93.19%,  93.19%)
+              long :       90 from       92 ( 97.8%,  97.8%)        5 clones (  5.56%), purity: ( 98.54%,  98.54%),  hitEff: ( 90.07%,  90.07%)
+         long>5GeV :       53 from       54 ( 98.1%,  98.1%)        4 clones (  7.55%), purity: ( 98.19%,  98.19%),  hitEff: ( 86.74%,  86.74%)
+      long_strange :        7 from        7 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 96.43%,  96.43%),  hitEff: ( 96.43%,  96.43%)
+ long_strange>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 93.75%,  93.75%),  hitEff: ( 93.75%,  93.75%)
+        long_fromb :        8 from        8 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 94.10%,  94.10%)
+   long_fromb>5GeV :        6 from        6 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 93.98%,  93.98%)
+
+CA method validation
+247 tracks including        6 ghosts (  2.4%). Event average   2.4%
+              velo :      215 from      235 ( 91.5%,  91.5%)       14 clones (  6.51%), purity: ( 98.93%,  98.93%),  hitEff: ( 90.41%,  90.41%)
+              long :       66 from       69 ( 95.7%,  95.7%)        9 clones ( 13.64%), purity: ( 98.96%,  98.96%),  hitEff: ( 84.95%,  84.95%)
+         long>5GeV :       43 from       43 ( 100.0%,  100.0%)        5 clones ( 11.63%), purity: ( 99.35%,  99.35%),  hitEff: ( 87.40%,  87.40%)
+      long_strange :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+None
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+
+CA method validation
+144 tracks including        1 ghosts (  0.7%). Event average   0.7%
+              velo :      133 from      139 ( 95.7%,  95.7%)        2 clones (  1.50%), purity: ( 99.52%,  99.52%),  hitEff: ( 95.60%,  95.60%)
+              long :       37 from       38 ( 97.4%,  97.4%)        2 clones (  5.41%), purity: ( 99.68%,  99.68%),  hitEff: ( 92.83%,  92.83%)
+         long>5GeV :       25 from       26 ( 96.2%,  96.2%)        2 clones (  8.00%), purity: ( 99.54%,  99.54%),  hitEff: ( 90.57%,  90.57%)
+      long_strange :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+None
+        long_fromb :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+
+CA method validation
+329 tracks including        5 ghosts (  1.5%). Event average   1.5%
+              velo :      303 from      315 ( 96.2%,  96.2%)        7 clones (  2.31%), purity: ( 99.21%,  99.21%),  hitEff: ( 94.92%,  94.92%)
+              long :      129 from      130 ( 99.2%,  99.2%)        4 clones (  3.10%), purity: ( 99.55%,  99.55%),  hitEff: ( 93.66%,  93.66%)
+         long>5GeV :       81 from       81 ( 100.0%,  100.0%)        2 clones (  2.47%), purity: ( 99.48%,  99.48%),  hitEff: ( 93.88%,  93.88%)
+      long_strange :        6 from        6 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 92.29%,  92.29%)
+ long_strange>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+
+CA method validation
+514 tracks including       37 ghosts (  7.2%). Event average   7.2%
+              velo :      435 from      475 ( 91.6%,  91.6%)       19 clones (  4.37%), purity: ( 98.12%,  98.12%),  hitEff: ( 90.75%,  90.75%)
+              long :      154 from      159 ( 96.9%,  96.9%)       11 clones (  7.14%), purity: ( 97.41%,  97.41%),  hitEff: ( 87.33%,  87.33%)
+         long>5GeV :       98 from       99 ( 99.0%,  99.0%)        7 clones (  7.14%), purity: ( 98.37%,  98.37%),  hitEff: ( 87.53%,  87.53%)
+      long_strange :        4 from        4 ( 100.0%,  100.0%)        1 clones ( 25.00%), purity: ( 93.33%,  93.33%),  hitEff: ( 73.00%,  73.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 91.67%,  91.67%),  hitEff: ( 87.50%,  87.50%)
+        long_fromb :        9 from        9 ( 100.0%,  100.0%)        1 clones ( 11.11%), purity: ( 89.71%,  89.71%),  hitEff: ( 71.00%,  71.00%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 94.14%,  94.14%),  hitEff: ( 72.44%,  72.44%)
+
+CA method validation
+283 tracks including        9 ghosts (  3.2%). Event average   3.2%
+              velo :      252 from      269 ( 93.7%,  93.7%)       12 clones (  4.76%), purity: ( 98.89%,  98.89%),  hitEff: ( 91.40%,  91.40%)
+              long :      106 from      107 ( 99.1%,  99.1%)        8 clones (  7.55%), purity: ( 98.64%,  98.64%),  hitEff: ( 89.07%,  89.07%)
+         long>5GeV :       65 from       65 ( 100.0%,  100.0%)        2 clones (  3.08%), purity: ( 99.20%,  99.20%),  hitEff: ( 94.07%,  94.07%)
+      long_strange :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 96.43%,  96.43%),  hitEff: ( 96.43%,  96.43%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 96.43%,  96.43%),  hitEff: ( 96.43%,  96.43%)
+
+CA method validation
+336 tracks including       15 ghosts (  4.5%). Event average   4.5%
+              velo :      292 from      307 ( 95.1%,  95.1%)       16 clones (  5.48%), purity: ( 98.61%,  98.61%),  hitEff: ( 91.09%,  91.09%)
+              long :       83 from       85 ( 97.6%,  97.6%)       11 clones ( 13.25%), purity: ( 97.81%,  97.81%),  hitEff: ( 84.40%,  84.40%)
+         long>5GeV :       51 from       52 ( 98.1%,  98.1%)        9 clones ( 17.65%), purity: ( 97.60%,  97.60%),  hitEff: ( 80.26%,  80.26%)
+      long_strange :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 94.44%,  94.44%),  hitEff: ( 94.44%,  94.44%)
+ long_strange>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 85.00%,  85.00%),  hitEff: ( 51.28%,  51.28%)
+   long_fromb>5GeV :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 85.00%,  85.00%),  hitEff: ( 51.28%,  51.28%)
+
+CA method validation
+545 tracks including       32 ghosts (  5.9%). Event average   5.9%
+              velo :      474 from      499 ( 95.0%,  95.0%)       20 clones (  4.22%), purity: ( 98.50%,  98.50%),  hitEff: ( 91.79%,  91.79%)
+              long :      140 from      143 ( 97.9%,  97.9%)       11 clones (  7.86%), purity: ( 98.82%,  98.82%),  hitEff: ( 89.45%,  89.45%)
+         long>5GeV :       95 from       96 ( 99.0%,  99.0%)       10 clones ( 10.53%), purity: ( 98.46%,  98.46%),  hitEff: ( 86.83%,  86.83%)
+      long_strange :        8 from       10 ( 80.0%,  80.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 92.71%,  92.71%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 95.83%,  95.83%)
+        long_fromb :        7 from        7 ( 100.0%,  100.0%)        1 clones ( 14.29%), purity: ( 100.00%,  100.00%),  hitEff: ( 81.22%,  81.22%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%,  100.0%)        1 clones ( 14.29%), purity: ( 100.00%,  100.00%),  hitEff: ( 81.22%,  81.22%)
+
+CA method validation
+529 tracks including       31 ghosts (  5.9%). Event average   5.9%
+              velo :      462 from      487 ( 94.9%,  94.9%)       22 clones (  4.76%), purity: ( 98.04%,  98.04%),  hitEff: ( 91.25%,  91.25%)
+              long :      154 from      154 ( 100.0%,  100.0%)       12 clones (  7.79%), purity: ( 98.16%,  98.16%),  hitEff: ( 87.57%,  87.57%)
+         long>5GeV :      101 from      101 ( 100.0%,  100.0%)       10 clones (  9.90%), purity: ( 97.90%,  97.90%),  hitEff: ( 85.86%,  85.86%)
+      long_strange :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 86.75%,  86.75%)
+ long_strange>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 83.44%,  83.44%)
+        long_fromb :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 97.50%,  97.50%),  hitEff: ( 97.50%,  97.50%)
+   long_fromb>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+
+CA method validation
+123 tracks including        3 ghosts (  2.4%). Event average   2.4%
+              velo :      109 from      114 ( 95.6%,  95.6%)        6 clones (  5.50%), purity: ( 99.64%,  99.64%),  hitEff: ( 92.14%,  92.14%)
+              long :       53 from       54 ( 98.1%,  98.1%)        5 clones (  9.43%), purity: ( 100.00%,  100.00%),  hitEff: ( 89.58%,  89.58%)
+         long>5GeV :       29 from       29 ( 100.0%,  100.0%)        2 clones (  6.90%), purity: ( 100.00%,  100.00%),  hitEff: ( 91.13%,  91.13%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 66.67%,  66.67%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 66.67%,  66.67%)
+        long_fromb :       13 from       13 ( 100.0%,  100.0%)        1 clones (  7.69%), purity: ( 100.00%,  100.00%),  hitEff: ( 91.84%,  91.84%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+
+CA method validation
+214 tracks including        6 ghosts (  2.8%). Event average   2.8%
+              velo :      198 from      209 ( 94.7%,  94.7%)        4 clones (  2.02%), purity: ( 98.62%,  98.62%),  hitEff: ( 94.29%,  94.29%)
+              long :       65 from       65 ( 100.0%,  100.0%)        2 clones (  3.08%), purity: ( 98.75%,  98.75%),  hitEff: ( 93.42%,  93.42%)
+         long>5GeV :       45 from       45 ( 100.0%,  100.0%)        1 clones (  2.22%), purity: ( 98.49%,  98.49%),  hitEff: ( 93.77%,  93.77%)
+None
+None
+        long_fromb :        8 from        8 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+
+CA method validation
+222 tracks including        4 ghosts (  1.8%). Event average   1.8%
+              velo :      193 from      205 ( 94.1%,  94.1%)        7 clones (  3.63%), purity: ( 98.25%,  98.25%),  hitEff: ( 92.38%,  92.38%)
+              long :       62 from       63 ( 98.4%,  98.4%)        4 clones (  6.45%), purity: ( 97.53%,  97.53%),  hitEff: ( 89.54%,  89.54%)
+         long>5GeV :       50 from       51 ( 98.0%,  98.0%)        4 clones (  8.00%), purity: ( 97.19%,  97.19%),  hitEff: ( 88.91%,  88.91%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 75.00%,  75.00%)
+None
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 96.00%,  96.00%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 96.00%,  96.00%)
+
+CA method validation
+274 tracks including       12 ghosts (  4.4%). Event average   4.4%
+              velo :      226 from      248 ( 91.1%,  91.1%)       10 clones (  4.42%), purity: ( 98.46%,  98.46%),  hitEff: ( 90.94%,  90.94%)
+              long :       77 from       82 ( 93.9%,  93.9%)        7 clones (  9.09%), purity: ( 99.21%,  99.21%),  hitEff: ( 87.91%,  87.91%)
+         long>5GeV :       49 from       51 ( 96.1%,  96.1%)        5 clones ( 10.20%), purity: ( 99.39%,  99.39%),  hitEff: ( 86.78%,  86.78%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        7 from        7 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 98.41%,  98.41%),  hitEff: ( 83.36%,  83.36%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 97.78%,  97.78%),  hitEff: ( 76.71%,  76.71%)
+
+CA method validation
+496 tracks including       56 ghosts ( 11.3%). Event average  11.3%
+              velo :      404 from      439 ( 92.0%,  92.0%)       17 clones (  4.21%), purity: ( 98.46%,  98.69%),  hitEff: ( 91.90%,  91.90%)
+              long :      115 from      117 ( 98.3%,  98.3%)       14 clones ( 12.17%), purity: ( 98.13%,  98.13%),  hitEff: ( 85.32%,  85.32%)
+         long>5GeV :       78 from       79 ( 98.7%,  98.7%)       11 clones ( 14.10%), purity: ( 98.50%,  98.50%),  hitEff: ( 84.08%,  84.08%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 95.24%,  95.24%),  hitEff: ( 66.67%,  66.67%)
+None
+        long_fromb :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 97.92%,  97.92%),  hitEff: ( 96.15%,  96.15%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 97.22%,  97.22%),  hitEff: ( 94.87%,  94.87%)
+
+CA method validation
+318 tracks including        7 ghosts (  2.2%). Event average   2.2%
+              velo :      293 from      311 ( 94.2%,  94.2%)       11 clones (  3.75%), purity: ( 99.52%,  99.52%),  hitEff: ( 93.79%,  93.79%)
+              long :       82 from       85 ( 96.5%,  96.5%)        4 clones (  4.88%), purity: ( 98.83%,  98.83%),  hitEff: ( 92.87%,  92.87%)
+         long>5GeV :       53 from       55 ( 96.4%,  96.4%)        2 clones (  3.77%), purity: ( 98.47%,  98.47%),  hitEff: ( 93.78%,  93.78%)
+      long_strange :        4 from        5 ( 80.0%,  80.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 95.00%,  95.00%)
+ long_strange>5GeV :        2 from        3 ( 66.7%,  66.7%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        7 from        7 ( 100.0%,  100.0%)        1 clones ( 14.29%), purity: ( 91.88%,  91.88%),  hitEff: ( 86.46%,  86.46%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%,  100.0%)        1 clones ( 14.29%), purity: ( 91.88%,  91.88%),  hitEff: ( 86.46%,  86.46%)
+
+CA method validation
+114 tracks including        1 ghosts (  0.9%). Event average   0.9%
+              velo :       95 from       99 ( 96.0%,  96.0%)        9 clones (  9.47%), purity: ( 99.35%,  99.35%),  hitEff: ( 86.81%,  86.81%)
+              long :       49 from       49 ( 100.0%,  100.0%)        7 clones ( 14.29%), purity: ( 100.00%,  100.00%),  hitEff: ( 84.81%,  84.81%)
+         long>5GeV :       30 from       30 ( 100.0%,  100.0%)        3 clones ( 10.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 87.32%,  87.32%)
+      long_strange :        3 from        3 ( 100.0%,  100.0%)        1 clones ( 33.33%), purity: ( 100.00%,  100.00%),  hitEff: ( 75.00%,  75.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 96.00%,  96.00%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+
+CA method validation
+281 tracks including        9 ghosts (  3.2%). Event average   3.2%
+              velo :      240 from      256 ( 93.8%,  93.8%)       14 clones (  5.83%), purity: ( 98.53%,  98.92%),  hitEff: ( 91.30%,  91.30%)
+              long :      103 from      105 ( 98.1%,  98.1%)       10 clones (  9.71%), purity: ( 98.71%,  98.71%),  hitEff: ( 88.70%,  88.70%)
+         long>5GeV :       74 from       74 ( 100.0%,  100.0%)        6 clones (  8.11%), purity: ( 98.43%,  98.43%),  hitEff: ( 89.56%,  89.56%)
+      long_strange :        4 from        5 ( 80.0%,  80.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :       12 from       12 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 96.55%,  96.55%),  hitEff: ( 97.74%,  97.74%)
+   long_fromb>5GeV :       10 from       10 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 97.29%,  97.29%),  hitEff: ( 97.29%,  97.29%)
+
+CA method validation
+330 tracks including        4 ghosts (  1.2%). Event average   1.2%
+              velo :      291 from      311 ( 93.6%,  93.6%)       19 clones (  6.53%), purity: ( 98.79%,  98.79%),  hitEff: ( 90.87%,  90.87%)
+              long :       99 from       99 ( 100.0%,  100.0%)       16 clones ( 16.16%), purity: ( 98.24%,  98.24%),  hitEff: ( 82.94%,  82.94%)
+         long>5GeV :       71 from       71 ( 100.0%,  100.0%)       14 clones ( 19.72%), purity: ( 97.97%,  97.97%),  hitEff: ( 79.90%,  79.90%)
+      long_strange :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 80.00%,  80.00%)
+None
+        long_fromb :        7 from        7 ( 100.0%,  100.0%)        2 clones ( 28.57%), purity: ( 93.70%,  93.70%),  hitEff: ( 74.60%,  74.60%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        2 clones ( 40.00%), purity: ( 91.90%,  91.90%),  hitEff: ( 67.35%,  67.35%)
+
+CA method validation
+160 tracks including        0 ghosts (  0.0%). Event average   0.0%
+              velo :      143 from      145 ( 98.6%,  98.6%)       10 clones (  6.99%), purity: ( 98.74%,  98.74%),  hitEff: ( 90.47%,  90.47%)
+              long :       45 from       45 ( 100.0%,  100.0%)        6 clones ( 13.33%), purity: ( 99.85%,  99.85%),  hitEff: ( 86.78%,  86.78%)
+         long>5GeV :       25 from       25 ( 100.0%,  100.0%)        2 clones (  8.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 92.59%,  92.59%)
+      long_strange :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 66.67%,  66.67%)
+None

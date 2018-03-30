@@ -1,0 +1,454 @@
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+527 tracks including       50 ghosts (  9.5%). Event average   9.5%,,,,,
+              velo :      446 from      501 ( 89.0%,  89.0%)        9 clones (  2.02%), purity: ( 97.76%,  97.76%),  hitEff: ( 93.78%,  93.78%)
+              long :      149 from      152 ( 98.0%,  98.0%)        5 clones (  3.36%), purity: ( 97.61%,  97.61%),  hitEff: ( 93.25%,  93.25%)
+         long>5GeV :      104 from      105 ( 99.0%,  99.0%)        4 clones (  3.85%), purity: ( 97.72%,  97.72%),  hitEff: ( 92.79%,  92.79%)
+      long_strange :       11 from       11 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 94.32%,  94.32%),  hitEff: ( 97.47%,  97.47%)
+ long_strange>5GeV :        6 from        6 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 93.75%,  93.75%),  hitEff: ( 97.92%,  97.92%)
+        long_fromb :        6 from        6 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 95.83%,  95.83%),  hitEff: ( 98.72%,  98.72%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 95.00%,  95.00%),  hitEff: ( 98.46%,  98.46%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+544 tracks including       72 ghosts ( 13.2%). Event average  13.2%,,,,,
+              velo :      440 from      499 ( 88.2%,  88.2%)       11 clones (  2.50%), purity: ( 97.49%,  97.49%),  hitEff: ( 92.40%,  92.40%)
+              long :      140 from      143 ( 97.9%,  97.9%)        7 clones (  5.00%), purity: ( 98.31%,  98.31%),  hitEff: ( 92.49%,  92.49%)
+         long>5GeV :       94 from       96 ( 97.9%,  97.9%)        7 clones (  7.45%), purity: ( 97.84%,  97.84%),  hitEff: ( 90.45%,  90.45%)
+      long_strange :        9 from       10 ( 90.0%,  90.0%)        0 clones (  0.00%), purity: ( 98.61%,  98.61%),  hitEff: ( 97.69%,  97.69%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 95.83%,  95.83%)
+        long_fromb :        7 from        7 ( 100.0%,  100.0%)        1 clones ( 14.29%), purity: ( 97.50%,  97.50%),  hitEff: ( 86.46%,  86.46%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%,  100.0%)        1 clones ( 14.29%), purity: ( 97.50%,  97.50%),  hitEff: ( 86.46%,  86.46%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+212 tracks including        2 ghosts (  0.9%). Event average   0.9%,,,,,
+              velo :      199 from      209 ( 95.2%,  95.2%)        3 clones (  1.51%), purity: ( 99.10%,  99.10%),  hitEff: ( 96.33%,  96.33%)
+              long :       65 from       65 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 99.00%,  99.00%),  hitEff: ( 97.02%,  97.02%)
+         long>5GeV :       45 from       45 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 98.56%,  98.56%),  hitEff: ( 96.75%,  96.75%)
+None,,,,,
+None,,,,,
+        long_fromb :        8 from        8 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+146 tracks including        2 ghosts (  1.4%). Event average   1.4%,,,,,
+              velo :      133 from      139 ( 95.7%,  95.7%)        2 clones (  1.50%), purity: ( 98.81%,  98.81%),  hitEff: ( 97.17%,  97.17%)
+              long :       38 from       38 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 99.30%,  99.30%),  hitEff: ( 97.58%,  97.58%)
+         long>5GeV :       26 from       26 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 99.52%,  99.52%),  hitEff: ( 97.90%,  97.90%)
+      long_strange :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+None,,,,,
+        long_fromb :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+282 tracks including       11 ghosts (  3.9%). Event average   3.9%,,,,,
+              velo :      253 from      269 ( 94.1%,  94.1%)        6 clones (  2.37%), purity: ( 98.62%,  98.62%),  hitEff: ( 94.72%,  94.72%)
+              long :      104 from      107 ( 97.2%,  97.2%)        4 clones (  3.85%), purity: ( 98.12%,  98.12%),  hitEff: ( 94.01%,  94.01%)
+         long>5GeV :       64 from       65 ( 98.5%,  98.5%)        2 clones (  3.12%), purity: ( 98.40%,  98.40%),  hitEff: ( 96.50%,  96.50%)
+      long_strange :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        4 from        4 ( 100.0%,  100.0%)        1 clones ( 25.00%), purity: ( 91.43%,  91.43%),  hitEff: ( 84.29%,  84.29%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        1 clones ( 25.00%), purity: ( 91.43%,  91.43%),  hitEff: ( 84.29%,  84.29%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+594 tracks including       68 ghosts ( 11.4%). Event average  11.4%,,,,,
+              velo :      481 from      535 ( 89.9%,  89.9%)       19 clones (  3.95%), purity: ( 97.40%,  97.40%),  hitEff: ( 91.49%,  91.49%)
+              long :      172 from      178 ( 96.6%,  96.6%)       12 clones (  6.98%), purity: ( 97.19%,  97.19%),  hitEff: ( 89.84%,  89.84%)
+         long>5GeV :      117 from      119 ( 98.3%,  98.3%)        7 clones (  5.98%), purity: ( 97.27%,  97.27%),  hitEff: ( 90.29%,  90.29%)
+      long_strange :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 93.75%,  93.75%),  hitEff: ( 96.43%,  96.43%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 92.86%,  92.86%)
+        long_fromb :        5 from        6 ( 83.3%,  83.3%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+304 tracks including        9 ghosts (  3.0%). Event average   3.0%,,,,,
+              velo :      272 from      287 ( 94.8%,  94.8%)        7 clones (  2.57%), purity: ( 98.95%,  98.95%),  hitEff: ( 94.74%,  94.74%)
+              long :       86 from       89 ( 96.6%,  96.6%)        5 clones (  5.81%), purity: ( 98.69%,  98.69%),  hitEff: ( 92.70%,  92.70%)
+         long>5GeV :       58 from       59 ( 98.3%,  98.3%)        3 clones (  5.17%), purity: ( 99.02%,  99.02%),  hitEff: ( 93.10%,  93.10%)
+      long_strange :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        4 from        4 ( 100.0%,  100.0%)        1 clones ( 25.00%), purity: ( 98.46%,  98.46%),  hitEff: ( 80.00%,  80.00%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%,  100.0%)        1 clones ( 33.33%), purity: ( 98.08%,  98.08%),  hitEff: ( 75.00%,  75.00%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+230 tracks including       13 ghosts (  5.7%). Event average   5.7%,,,,,
+              velo :      193 from      205 ( 94.1%,  94.1%)        5 clones (  2.59%), purity: ( 97.95%,  97.95%),  hitEff: ( 93.79%,  93.79%)
+              long :       62 from       63 ( 98.4%,  98.4%)        2 clones (  3.23%), purity: ( 97.68%,  97.68%),  hitEff: ( 94.80%,  94.80%)
+         long>5GeV :       50 from       51 ( 98.0%,  98.0%)        2 clones (  4.00%), purity: ( 97.39%,  97.39%),  hitEff: ( 94.76%,  94.76%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 95.00%,  95.00%)
+None,,,,,
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 96.00%,  96.00%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 96.00%,  96.00%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+462 tracks including       53 ghosts ( 11.5%). Event average  11.5%,,,,,
+              velo :      367 from      410 ( 89.5%,  89.5%)       27 clones (  7.36%), purity: ( 97.53%,  97.53%),  hitEff: ( 89.79%,  89.79%)
+              long :      138 from      141 ( 97.9%,  97.9%)       15 clones ( 10.87%), purity: ( 96.81%,  96.81%),  hitEff: ( 87.90%,  87.90%)
+         long>5GeV :       99 from      100 ( 99.0%,  99.0%)       13 clones ( 13.13%), purity: ( 97.00%,  97.00%),  hitEff: ( 86.57%,  86.57%)
+      long_strange :        8 from        8 ( 100.0%,  100.0%)        2 clones ( 25.00%), purity: ( 98.89%,  98.89%),  hitEff: ( 80.00%,  80.00%)
+ long_strange>5GeV :        6 from        6 ( 100.0%,  100.0%)        2 clones ( 33.33%), purity: ( 98.61%,  98.61%),  hitEff: ( 75.00%,  75.00%)
+        long_fromb :        6 from        6 ( 100.0%,  100.0%)        2 clones ( 33.33%), purity: ( 92.29%,  92.29%),  hitEff: ( 78.69%,  78.69%)
+   long_fromb>5GeV :        6 from        6 ( 100.0%,  100.0%)        2 clones ( 33.33%), purity: ( 92.29%,  92.29%),  hitEff: ( 78.69%,  78.69%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+581 tracks including       74 ghosts ( 12.7%). Event average  12.7%,,,,,
+              velo :      478 from      531 ( 90.0%,  90.0%)        9 clones (  1.88%), purity: ( 97.42%,  97.42%),  hitEff: ( 93.50%,  93.50%)
+              long :      150 from      152 ( 98.7%,  98.7%)        6 clones (  4.00%), purity: ( 97.09%,  97.09%),  hitEff: ( 91.87%,  91.87%)
+         long>5GeV :      105 from      105 ( 100.0%,  100.0%)        3 clones (  2.86%), purity: ( 97.25%,  97.25%),  hitEff: ( 92.16%,  92.16%)
+      long_strange :        8 from        8 ( 100.0%,  100.0%)        1 clones ( 12.50%), purity: ( 94.54%,  94.54%),  hitEff: ( 86.87%,  86.87%)
+ long_strange>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 94.44%,  94.44%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 89.33%,  89.33%),  hitEff: ( 86.00%,  86.00%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 90.83%,  90.83%),  hitEff: ( 82.50%,  82.50%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+508 tracks including       68 ghosts ( 13.4%). Event average  13.4%,,,,,
+              velo :      404 from      475 ( 85.1%,  85.1%)       11 clones (  2.72%), purity: ( 96.69%,  96.69%),  hitEff: ( 92.41%,  92.41%)
+              long :      152 from      159 ( 95.6%,  95.6%)        7 clones (  4.61%), purity: ( 96.34%,  96.34%),  hitEff: ( 91.86%,  91.86%)
+         long>5GeV :       96 from       99 ( 97.0%,  97.0%)        4 clones (  4.17%), purity: ( 97.30%,  97.30%),  hitEff: ( 93.81%,  93.81%)
+      long_strange :        3 from        4 ( 75.0%,  75.0%)        0 clones (  0.00%), purity: ( 91.11%,  91.11%),  hitEff: ( 88.33%,  88.33%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 91.67%,  91.67%),  hitEff: ( 87.50%,  87.50%)
+        long_fromb :        8 from        9 ( 88.9%,  88.9%)        1 clones ( 12.50%), purity: ( 85.75%,  85.75%),  hitEff: ( 78.68%,  78.68%)
+   long_fromb>5GeV :        4 from        5 ( 80.0%,  80.0%)        0 clones (  0.00%), purity: ( 87.22%,  87.22%),  hitEff: ( 79.72%,  79.72%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+331 tracks including       12 ghosts (  3.6%). Event average   3.6%,,,,,
+              velo :      300 from      315 ( 95.2%,  95.2%)        3 clones (  1.00%), purity: ( 98.81%,  98.81%),  hitEff: ( 96.66%,  96.66%)
+              long :      129 from      130 ( 99.2%,  99.2%)        1 clones (  0.78%), purity: ( 98.96%,  98.96%),  hitEff: ( 98.00%,  98.00%)
+         long>5GeV :       80 from       81 ( 98.8%,  98.8%)        1 clones (  1.25%), purity: ( 98.78%,  98.78%),  hitEff: ( 98.32%,  98.32%)
+      long_strange :        6 from        6 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 98.96%,  98.96%)
+ long_strange>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+277 tracks including       13 ghosts (  4.7%). Event average   4.7%,,,,,
+              velo :      232 from      248 ( 93.5%,  93.5%)        9 clones (  3.88%), purity: ( 98.11%,  98.11%),  hitEff: ( 93.77%,  93.77%)
+              long :       81 from       82 ( 98.8%,  98.8%)        7 clones (  8.64%), purity: ( 97.31%,  97.31%),  hitEff: ( 92.03%,  92.03%)
+         long>5GeV :       50 from       51 ( 98.0%,  98.0%)        4 clones (  8.00%), purity: ( 97.95%,  97.95%),  hitEff: ( 89.93%,  89.93%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        7 from        7 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 95.04%,  95.04%),  hitEff: ( 85.35%,  85.35%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 93.06%,  93.06%),  hitEff: ( 79.48%,  79.48%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+649 tracks including       95 ghosts ( 14.6%). Event average  14.6%,,,,,
+              velo :      516 from      572 ( 90.2%,  90.2%)       21 clones (  4.07%), purity: ( 97.29%,  97.29%),  hitEff: ( 91.13%,  91.13%)
+              long :      202 from      209 ( 96.7%,  96.7%)       14 clones (  6.93%), purity: ( 96.54%,  96.54%),  hitEff: ( 89.81%,  89.81%)
+         long>5GeV :      144 from      148 ( 97.3%,  97.3%)        8 clones (  5.56%), purity: ( 96.99%,  96.99%),  hitEff: ( 91.16%,  91.16%)
+      long_strange :        8 from        9 ( 88.9%,  88.9%)        1 clones ( 12.50%), purity: ( 92.59%,  92.59%),  hitEff: ( 80.56%,  80.56%)
+ long_strange>5GeV :        7 from        8 ( 87.5%,  87.5%)        1 clones ( 14.29%), purity: ( 91.67%,  91.67%),  hitEff: ( 82.29%,  82.29%)
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+117 tracks including        3 ghosts (  2.6%). Event average   2.6%,,,,,
+              velo :      107 from      114 ( 93.9%,  93.9%)        2 clones (  1.87%), purity: ( 98.99%,  98.99%),  hitEff: ( 98.01%,  98.01%)
+              long :       39 from       39 ( 100.0%,  100.0%)        2 clones (  5.13%), purity: ( 97.98%,  97.98%),  hitEff: ( 96.74%,  96.74%)
+         long>5GeV :       30 from       30 ( 100.0%,  100.0%)        2 clones (  6.67%), purity: ( 98.03%,  98.03%),  hitEff: ( 96.45%,  96.45%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+None,,,,,
+        long_fromb :       13 from       13 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 98.46%,  98.46%),  hitEff: ( 98.46%,  98.46%)
+   long_fromb>5GeV :       12 from       12 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+340 tracks including       23 ghosts (  6.8%). Event average   6.8%,,,,,
+              velo :      288 from      307 ( 93.8%,  93.8%)       10 clones (  3.47%), purity: ( 98.24%,  98.24%),  hitEff: ( 94.05%,  94.05%)
+              long :       81 from       85 ( 95.3%,  95.3%)        6 clones (  7.41%), purity: ( 98.48%,  98.48%),  hitEff: ( 92.09%,  92.09%)
+         long>5GeV :       50 from       52 ( 96.2%,  96.2%)        3 clones (  6.00%), purity: ( 99.24%,  99.24%),  hitEff: ( 92.22%,  92.22%)
+      long_strange :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 94.44%,  94.44%),  hitEff: ( 94.44%,  94.44%)
+ long_strange>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        1 from        2 ( 50.0%,  50.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        1 from        2 ( 50.0%,  50.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+126 tracks including        4 ghosts (  3.2%). Event average   3.2%,,,,,
+              velo :      111 from      114 ( 97.4%,  97.4%)        5 clones (  4.50%), purity: ( 98.98%,  98.98%),  hitEff: ( 95.58%,  95.58%)
+              long :       54 from       54 ( 100.0%,  100.0%)        1 clones (  1.85%), purity: ( 99.83%,  99.83%),  hitEff: ( 97.87%,  97.87%)
+         long>5GeV :       29 from       29 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 99.69%,  99.69%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :       13 from       13 ( 100.0%,  100.0%)        1 clones (  7.69%), purity: ( 100.00%,  100.00%),  hitEff: ( 92.21%,  92.21%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 98.18%,  98.18%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+525 tracks including       59 ghosts ( 11.2%). Event average  11.2%,,,,,
+              velo :      442 from      487 ( 90.8%,  90.8%)       10 clones (  2.26%), purity: ( 98.06%,  98.06%),  hitEff: ( 93.37%,  93.37%)
+              long :      150 from      154 ( 97.4%,  97.4%)        5 clones (  3.33%), purity: ( 97.68%,  97.68%),  hitEff: ( 91.57%,  91.57%)
+         long>5GeV :      100 from      101 ( 99.0%,  99.0%)        3 clones (  3.00%), purity: ( 97.77%,  97.77%),  hitEff: ( 92.58%,  92.58%)
+      long_strange :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 97.14%,  97.14%),  hitEff: ( 95.32%,  95.32%)
+ long_strange>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 96.43%,  96.43%),  hitEff: ( 94.16%,  94.16%)
+        long_fromb :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 97.50%,  97.50%),  hitEff: ( 97.50%,  97.50%)
+   long_fromb>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+319 tracks including        6 ghosts (  1.9%). Event average   1.9%,,,,,
+              velo :      286 from      301 ( 95.0%,  95.0%)       10 clones (  3.50%), purity: ( 97.93%,  97.93%),  hitEff: ( 93.99%,  93.99%)
+              long :       90 from       92 ( 97.8%,  97.8%)        5 clones (  5.56%), purity: ( 96.95%,  96.95%),  hitEff: ( 91.98%,  91.98%)
+         long>5GeV :       52 from       54 ( 96.3%,  96.3%)        3 clones (  5.77%), purity: ( 96.83%,  96.83%),  hitEff: ( 90.87%,  90.87%)
+      long_strange :        7 from        7 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 92.86%,  92.86%),  hitEff: ( 92.86%,  92.86%)
+ long_strange>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 87.50%,  87.50%),  hitEff: ( 87.50%,  87.50%)
+        long_fromb :        7 from        8 ( 87.5%,  87.5%)        0 clones (  0.00%), purity: ( 96.83%,  96.83%),  hitEff: ( 95.24%,  95.24%)
+   long_fromb>5GeV :        5 from        6 ( 83.3%,  83.3%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 97.78%,  97.78%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+246 tracks including        3 ghosts (  1.2%). Event average   1.2%,,,,,
+              velo :      220 from      235 ( 93.6%,  93.6%)        8 clones (  3.64%), purity: ( 98.68%,  98.68%),  hitEff: ( 94.23%,  94.23%)
+              long :       68 from       69 ( 98.6%,  98.6%)        5 clones (  7.35%), purity: ( 98.43%,  98.43%),  hitEff: ( 91.22%,  91.22%)
+         long>5GeV :       43 from       43 ( 100.0%,  100.0%)        4 clones (  9.30%), purity: ( 99.00%,  99.00%),  hitEff: ( 91.59%,  91.59%)
+      long_strange :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+None,,,,,
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 96.82%,  96.82%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 98.53%,  98.53%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+477 tracks including       67 ghosts ( 14.0%). Event average  14.0%,,,,,
+              velo :      382 from      439 ( 87.0%,  87.0%)        5 clones (  1.31%), purity: ( 97.31%,  97.56%),  hitEff: ( 93.37%,  93.37%)
+              long :      116 from      117 ( 99.1%,  99.1%)        2 clones (  1.72%), purity: ( 97.93%,  97.93%),  hitEff: ( 95.33%,  95.33%)
+         long>5GeV :       79 from       79 ( 100.0%,  100.0%)        2 clones (  2.53%), purity: ( 98.16%,  98.16%),  hitEff: ( 94.56%,  94.56%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 96.88%,  96.88%),  hitEff: ( 100.00%,  100.00%)
+None,,,,,
+        long_fromb :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 97.92%,  97.92%),  hitEff: ( 96.15%,  96.15%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 97.22%,  97.22%),  hitEff: ( 94.87%,  94.87%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+330 tracks including       21 ghosts (  6.4%). Event average   6.4%,,,,,
+              velo :      284 from      311 ( 91.3%,  91.3%)       10 clones (  3.52%), purity: ( 98.19%,  98.19%),  hitEff: ( 94.00%,  94.00%)
+              long :       98 from       99 ( 99.0%,  99.0%)        5 clones (  5.10%), purity: ( 98.32%,  98.32%),  hitEff: ( 91.92%,  91.92%)
+         long>5GeV :       70 from       71 ( 98.6%,  98.6%)        3 clones (  4.29%), purity: ( 98.03%,  98.03%),  hitEff: ( 92.09%,  92.09%)
+      long_strange :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 80.00%,  80.00%)
+None,,,,,
+        long_fromb :        7 from        7 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 89.97%,  89.97%),  hitEff: ( 84.13%,  84.13%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 85.95%,  85.95%),  hitEff: ( 82.86%,  82.86%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+275 tracks including       12 ghosts (  4.4%). Event average   4.4%,,,,,
+              velo :      237 from      256 ( 92.6%,  92.6%)        8 clones (  3.38%), purity: ( 98.34%,  98.34%),  hitEff: ( 94.83%,  94.83%)
+              long :      102 from      105 ( 97.1%,  97.1%)        3 clones (  2.94%), purity: ( 98.68%,  98.68%),  hitEff: ( 95.69%,  95.69%)
+         long>5GeV :       73 from       74 ( 98.6%,  98.6%)        2 clones (  2.74%), purity: ( 98.42%,  98.42%),  hitEff: ( 95.94%,  95.94%)
+      long_strange :        4 from        5 ( 80.0%,  80.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :       12 from       12 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 96.55%,  96.55%),  hitEff: ( 97.74%,  97.74%)
+   long_fromb>5GeV :       10 from       10 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 97.29%,  97.29%),  hitEff: ( 97.29%,  97.29%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+155 tracks including        2 ghosts (  1.3%). Event average   1.3%,,,,,
+              velo :      141 from      145 ( 97.2%,  97.2%)        3 clones (  2.13%), purity: ( 98.81%,  98.81%),  hitEff: ( 95.13%,  95.13%)
+              long :       44 from       45 ( 97.8%,  97.8%)        1 clones (  2.27%), purity: ( 99.83%,  99.83%),  hitEff: ( 96.92%,  96.92%)
+         long>5GeV :       24 from       25 ( 96.0%,  96.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+      long_strange :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 96.15%,  96.15%)
+None,,,,,
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+113 tracks including        1 ghosts (  0.9%). Event average   0.9%,,,,,
+              velo :       96 from       99 ( 97.0%,  97.0%)        5 clones (  5.21%), purity: ( 98.92%,  98.92%),  hitEff: ( 92.71%,  92.71%)
+              long :       49 from       49 ( 100.0%,  100.0%)        3 clones (  6.12%), purity: ( 99.73%,  99.73%),  hitEff: ( 93.59%,  93.59%)
+         long>5GeV :       30 from       30 ( 100.0%,  100.0%)        1 clones (  3.33%), purity: ( 99.54%,  99.54%),  hitEff: ( 96.31%,  96.31%)
+      long_strange :        3 from        3 ( 100.0%,  100.0%)        1 clones ( 33.33%), purity: ( 100.00%,  100.00%),  hitEff: ( 75.00%,  75.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+164 tracks including        6 ghosts (  3.7%). Event average   3.7%,,,,,
+              velo :      149 from      161 ( 92.5%,  92.5%)        2 clones (  1.34%), purity: ( 99.12%,  99.12%),  hitEff: ( 96.54%,  96.54%)
+              long :       47 from       47 ( 100.0%,  100.0%)        1 clones (  2.13%), purity: ( 98.36%,  98.36%),  hitEff: ( 94.16%,  94.16%)
+         long>5GeV :       29 from       29 ( 100.0%,  100.0%)        1 clones (  3.45%), purity: ( 98.88%,  98.88%),  hitEff: ( 95.34%,  95.34%)
+None,,,,,
+None,,,,,
+        long_fromb :       10 from       10 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 97.75%,  97.75%),  hitEff: ( 96.01%,  96.01%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 96.79%,  96.79%),  hitEff: ( 94.31%,  94.31%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+425 tracks including       37 ghosts (  8.7%). Event average   8.7%,,,,,
+              velo :      340 from      383 ( 88.8%,  88.8%)       17 clones (  5.00%), purity: ( 98.15%,  98.15%),  hitEff: ( 91.62%,  91.62%)
+              long :      114 from      118 ( 96.6%,  96.6%)       11 clones (  9.65%), purity: ( 98.17%,  98.17%),  hitEff: ( 89.41%,  89.41%)
+         long>5GeV :       87 from       90 ( 96.7%,  96.7%)       10 clones ( 11.49%), purity: ( 97.79%,  97.79%),  hitEff: ( 87.75%,  87.75%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 91.67%,  91.67%)
+   long_fromb>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 91.67%,  91.67%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+105 tracks including        0 ghosts (  0.0%). Event average   0.0%,,,,,
+              velo :       98 from      104 ( 94.2%,  94.2%)        3 clones (  3.06%), purity: ( 99.75%,  99.75%),  hitEff: ( 94.74%,  94.74%)
+              long :       37 from       37 ( 100.0%,  100.0%)        3 clones (  8.11%), purity: ( 100.00%,  100.00%),  hitEff: ( 90.18%,  90.18%)
+         long>5GeV :       25 from       25 ( 100.0%,  100.0%)        2 clones (  8.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 91.11%,  91.11%)
+None,,,,,
+None,,,,,
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 92.00%,  92.00%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 92.00%,  92.00%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+320 tracks including        9 ghosts (  2.8%). Event average   2.8%,,,,,
+              velo :      293 from      311 ( 94.2%,  94.2%)        8 clones (  2.73%), purity: ( 98.64%,  98.64%),  hitEff: ( 95.16%,  95.16%)
+              long :       83 from       85 ( 97.6%,  97.6%)        2 clones (  2.41%), purity: ( 99.44%,  99.44%),  hitEff: ( 96.22%,  96.22%)
+         long>5GeV :       53 from       55 ( 96.4%,  96.4%)        2 clones (  3.77%), purity: ( 99.44%,  99.44%),  hitEff: ( 95.06%,  95.06%)
+      long_strange :        4 from        5 ( 80.0%,  80.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 95.00%,  95.00%)
+ long_strange>5GeV :        2 from        3 ( 66.7%,  66.7%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        7 from        7 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 97.62%,  97.62%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 97.62%,  97.62%)
+,,,,,
+Invoking classic solver with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+,,,,,
+classic method validation,,,,,
+385 tracks including       29 ghosts (  7.5%). Event average   7.5%,,,,,
+              velo :      330 from      369 ( 89.4%,  89.4%)        9 clones (  2.73%), purity: ( 98.46%,  98.46%),  hitEff: ( 93.83%,  93.83%)
+              long :       89 from       91 ( 97.8%,  97.8%)        7 clones (  7.87%), purity: ( 98.80%,  98.80%),  hitEff: ( 90.07%,  90.07%)
+         long>5GeV :       60 from       61 ( 98.4%,  98.4%)        5 clones (  8.33%), purity: ( 98.93%,  98.93%),  hitEff: ( 90.08%,  90.08%)
+      long_strange :        5 from        5 ( 100.0%,  100.0%)        1 clones ( 20.00%), purity: ( 98.33%,  98.33%),  hitEff: ( 83.33%,  83.33%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)

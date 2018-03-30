@@ -9,25 +9,26 @@ import os
 from CellularAutomaton.CellularAutomaton import CellularAutomaton
 from classical_solver import classical_solver
 from graph_dfs import graph_dfs
+import time
+import csv
 
 solutions = {}
 
 
-
 # For 1 of the files; algorithm runs quickly
-f = open("velojson/9.json")
-json_data = json.loads(f.read())
-event = em.event(json_data)
-f.close()
-
-# solve with CA
-ca = CellularAutomaton()
-solutions["CA"] = ca.solve(event)
-
-for k, v in iter(sorted(solutions.items())):
-    print("%s method validation" % (k))
-    vl.validate_print([json_data], [v])
-    print()
+# f = open("velojson/9.json")
+# json_data = json.loads(f.read())
+# event = em.event(json_data)
+# f.close()
+#
+# # solve with CA
+# ca = CellularAutomaton()
+# solutions["CA"] = ca.solve(event)
+#
+# for k, v in iter(sorted(solutions.items())):
+#     print("%s method validation" % (k))
+#     vl.validate_print([json_data], [v])
+#     print()
 
 
 
@@ -35,30 +36,54 @@ for k, v in iter(sorted(solutions.items())):
 
 # For all 30 Jsons
 
-# for file in os.listdir("velojson"):
-#
-#     if file.endswith(".json"):
-#
-#                 print(file)
-#         f = open("velojson/"+file)
-#
-#         json_data = json.loads(f.read())
-#         event = em.event(json_data)
-#         f.close()
-#
-#         # Solve with the classic method
-#         classical = classical_solver()
-#         solutions["classic"] = classical.solve(event)
-#
-#         # Solve with the DFS method
-#         dfs = graph_dfs()
-#         solutions["dfs"] = dfs.solve(event)
-#
-#         solve with CA
-#         ca = CellularAutomaton()
-#         solutions["CA"] = ca.solve(event)
-#
-#         for k, v in iter(sorted(solutions.items())):
-#             print("%s method validation" % (k))
-#             vl.validate_print([json_data], [v])
-#             print()
+all_times = []
+for file in os.listdir("velojson"):
+
+
+
+    if file.endswith(".json"):
+        # f = open("velojson/23.json")
+        f = open("velojson/"+file)
+
+        json_data = json.loads(f.read())
+        event = em.event(json_data)
+        f.close()
+
+
+        for a in range(30):
+            # current_run = []
+            # Solve with the classic method
+            # classical = classical_solver()
+            # start = time.clock()
+            # solutions["classic"] = classical.solve(event)
+            # current_run.append(time.clock() - start)
+
+            # Solve with the DFS method
+            # dfs = graph_dfs()
+            # start = time.clock()
+            # solutions["dfs"] = dfs.solve(event)
+            # current_run.append(time.clock() - start)
+
+            # solve with CA
+            ca = CellularAutomaton()
+            start = time.clock()
+            solutions["CA"], time_parts = ca.solve_without_Profiling(event)
+
+            time_parts.append(time.clock() - start)
+
+            all_times.append(time_parts)
+
+            # for k, v in iter(sorted(solutions.items())):
+            #     print("%s method validation" % (k))
+            #     vl.validate_print([json_data], [v])
+            #     print()
+
+
+with open ("Profiling/Final_CA_time_measure.csv", 'a') as output_file:
+    wr = csv.writer(output_file, delimiter=',', lineterminator='\n')
+    wr.writerow(['CA'])
+    # wr.writerow(['Doublet Creation', 'Neighbour search', 'CA', 'Extract Possible Tracks', 'Remove Short', 'Remove Ghost and Clones', 'Full Time'])
+    for line in all_times:
+        # wr.writerow([line[0], line[1], line[2]])
+        wr.writerow([line[0]])
+        # wr.writerow([line[0], line[1], line[2], line[3], line[4], line[5], line[6]])

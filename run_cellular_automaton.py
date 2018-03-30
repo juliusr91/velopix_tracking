@@ -70,9 +70,9 @@ for file in os.listdir("velojson"):
             solutions["CA"], time_parts = ca.solve_with_profiling(event)
 
             time_parts.append(time.clock() - start)
-
+            time_parts.append(event.number_of_hits)
+            time_parts.append(max([(len(i.hits())) for i in event.sensors]))
             all_times.append(time_parts)
-            all_times.append([event.number_of_hits, max([(len(i.hits())) for i in event.sensors])])
 
             # for k, v in iter(sorted(solutions.items())):
             #     print("%s method validation" % (k))
@@ -87,4 +87,5 @@ with open ("Profiling/FirstDetailedMeasurement-300318_5runs_per_file.csv", 'a') 
     for line in all_times:
         # wr.writerow([line[0], line[1], line[2]])
         # wr.writerow([line[0]])
-        wr.writerow([line[0], line[1], line[2], line[3], line[4], line[5], line[6]])
+        print(line)
+        wr.writerow([line[0], line[1], line[2], line[3], line[4], line[5], line[6], line[7], line[8]])

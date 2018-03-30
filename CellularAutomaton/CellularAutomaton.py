@@ -219,20 +219,6 @@ class CellularAutomaton(object):
         local_tracks = []
         in_loop = False
 
-        #TODO dont we have the left neighbours already?
-        # index = index - 2
-        # n_doublets = []
-        # for previous_doublets in self.doublets[index]:
-        #     for doublet in previous_doublets:
-        #         if self.calculate_shared_point(right_doublet, doublet):
-        #             try:
-        #                 if self.check_tolerance(doublet.starting_point, doublet.ending_point,
-        #                                         right_doublet.ending_point):
-        #                     n_doublets.append(doublet)
-        #             except:
-        #                 print(doublet.ending_point, right_doublet.starting_point, right_doublet.ending_point)
-
-
         #only goes to the second doublet and not the first
         for n_doublet in right_doublet.left_neighbours:
             # print("neighbour " + str(n_doublet))

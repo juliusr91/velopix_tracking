@@ -235,6 +235,8 @@ class CellularAutomaton(object):
 
         #only goes to the second doublet and not the first
         for n_doublet in n_doublets:
+            # if (n_doublet.state + 1 == right_doublet.state) and not n_doublet.used:
+            # if (n_doublet.state + 1 == right_doublet.state or n_doublet.state + 2 == right_doublet.state) and not n_doublet.used:
             if n_doublet.state < right_doublet.state and not n_doublet.used:
                 in_loop = True
                 chi2 = self.calculate_chi2(n_doublet.starting_point, n_doublet.ending_point, right_doublet.ending_point)

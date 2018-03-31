@@ -23,7 +23,9 @@ f.close()
 
 # solve with CA
 ca = CellularAutomaton()
-solutions["CA"], times = ca.solve_without_Profiling(event)
+# solutions["CA"], times = ca.solve_without_Profiling(event)
+solutions["CA"], times = ca.solve_with_profiling(event)
+
 
 for k, v in iter(sorted(solutions.items())):
     print("%s method validation" % (k))
@@ -31,7 +33,7 @@ for k, v in iter(sorted(solutions.items())):
     print()
 
 
-
+print (times)
 
 
 # For all 30 Jsons

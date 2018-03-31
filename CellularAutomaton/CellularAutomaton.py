@@ -222,9 +222,9 @@ class CellularAutomaton(object):
         #only goes to the second doublet and not the first
         for n_doublet in right_doublet.left_neighbours:
             neighbour_doublet = self.doublets[n_doublet[0]][n_doublet[1]][n_doublet[2]]
-            if neighbour_doublet.state < right_doublet.state and not neighbour_doublet.used:
-            # if (n_doublet.state + 1 == right_doublet.state) and not n_doublet.used:
-            # if (n_doublet.state + 1 == right_doublet.state or n_doublet.state + 2 == right_doublet.state) and not n_doublet.used:
+            # if neighbour_doublet.state < right_doublet.state and not neighbour_doublet.used:
+            if (neighbour_doublet.state + 1 == right_doublet.state) and not neighbour_doublet.used:
+            # if (neighbour_doublet.state + 1 == right_doublet.state or neighbour_doublet.state + 2 == right_doublet.state) and not neighbour_doublet.used:
                 in_loop = True
                 chi2 = self.calculate_chi2(neighbour_doublet.starting_point, neighbour_doublet.ending_point, right_doublet.ending_point)
                 local_track.add_hit(neighbour_doublet.starting_point, chi2)

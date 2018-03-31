@@ -1,0 +1,480 @@
+making doublets took:  0.15587400000000007
+making neighbours took:  2.5005830000000002
+ca took:  0.20498200000000022
+extracting took:  26.63212
+removing shorttracks took:  0.0003760000000028185
+removing ghost_clones took:  0.03589099999999945
+CA method validation
+120 tracks including        2 ghosts (  1.7%). Event average   1.7%
+              velo :      109 from      114 ( 95.6%,  95.6%)        3 clones (  2.75%), purity: ( 99.29%,  99.29%),  hitEff: ( 95.67%,  95.67%)
+              long :       39 from       39 ( 100.0%, 100.0%)        2 clones (  5.13%), purity: ( 98.22%,  98.22%),  hitEff: ( 92.82%,  92.82%)
+         long>5GeV :       30 from       30 ( 100.0%, 100.0%)        2 clones (  6.67%), purity: ( 98.35%,  98.35%),  hitEff: ( 92.06%,  92.06%)
+      long_strange :        2 from        2 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 100.00%, 100.00%),  hitEff: ( 100.00%, 100.00%)
+None,,,,,
+        long_fromb :       13 from       13 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 98.46%,  98.46%),  hitEff: ( 96.77%,  96.77%)
+   long_fromb>5GeV :       12 from       12 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 100.00%, 100.00%),  hitEff: ( 98.16%,  98.16%)
+
+making doublets took:  1.993185000000004
+making neighbours took:  136.321658
+ca took:  2.6609559999999988
+extracting took:  20.85211000000001
+removing shorttracks took:  0.0057380000000080145
+removing ghost_clones took:  0.7658099999999877
+CA method validation
+547 tracks including       53 ghosts (  9.7%). Event average   9.7%
+              velo :      449 from      501 ( 89.6%,  89.6%)       20 clones (  4.45%), purity: ( 98.35%,  98.35%),  hitEff: ( 91.87%,  91.87%)
+              long :      150 from      152 ( 98.7%,  98.7%)       13 clones (  8.67%), purity: ( 97.72%,  97.72%),  hitEff: ( 87.87%,  87.87%)
+         long>5GeV :      104 from      105 ( 99.0%,  99.0%)       10 clones (  9.62%), purity: ( 97.65%,  97.65%),  hitEff: ( 87.54%,  87.54%)
+      long_strange :        9 from       11 ( 81.8%,  81.8%)        0 clones (  0.00%), purity: ( 94.44%,  94.44%),  hitEff: ( 95.31%,  95.31%)
+ long_strange>5GeV :        5 from        6 ( 83.3%,  83.3%)        0 clones (  0.00%), purity: ( 95.00%,  95.00%),  hitEff: ( 94.64%,  94.64%)
+        long_fromb :        5 from        6 ( 83.3%,  83.3%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 98.46%,  98.46%)
+   long_fromb>5GeV :        4 from        5 ( 80.0%,  80.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 98.08%,  98.08%)
+
+making doublets took:  1.3406690000000197
+making neighbours took:  76.83383600000002
+ca took:  2.2814129999999864
+extracting took:  50.36262799999997
+removing shorttracks took:  0.0024589999999875545
+removing ghost_clones took:  0.4571480000000179
+CA method validation
+424 tracks including       33 ghosts (  7.8%). Event average   7.8%
+              velo :      345 from      383 ( 90.1%,  90.1%)       17 clones (  4.93%), purity: ( 98.38%,  98.38%),  hitEff: ( 91.54%,  91.54%)
+              long :      116 from      118 ( 98.3%,  98.3%)       10 clones (  8.62%), purity: ( 98.30%,  98.30%),  hitEff: ( 88.68%,  88.68%)
+         long>5GeV :       89 from       90 ( 98.9%,  98.9%)       10 clones ( 11.24%), purity: ( 97.97%,  97.97%),  hitEff: ( 86.37%,  86.37%)
+      long_strange :        2 from        2 ( 100.0%, 100.0%)        1 clones ( 50.00%), purity: (100.00%, 100.00%),  hitEff: ( 66.67%,  66.67%)
+ long_strange>5GeV :        1 from        1 ( 100.0%, 100.0%)        1 clones (100.00%), purity: (100.00%, 100.00%),  hitEff: ( 50.00%,  50.00%)
+        long_fromb :        2 from        2 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 91.67%,  91.67%)
+   long_fromb>5GeV :        2 from        2 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 91.67%,  91.67%)
+
+making doublets took:  1.1738269999999602
+making neighbours took:  48.95561700000002
+ca took:  1.735667000000035
+extracting took:  17.42742800000002
+removing shorttracks took:  0.0015650000000277942
+removing ghost_clones took:  0.2575899999999933
+CA method validation
+393 tracks including       30 ghosts (  7.6%). Event average   7.6%
+              velo :      340 from      369 ( 92.1%,  92.1%)       11 clones (  3.24%), purity: ( 98.61%,  98.61%),  hitEff: ( 93.68%,  93.68%)
+              long :       89 from       91 ( 97.8%,  97.8%)        7 clones (  7.87%), purity: ( 98.32%,  98.32%),  hitEff: ( 88.94%,  88.94%)
+         long>5GeV :       60 from       61 ( 98.4%,  98.4%)        5 clones (  8.33%), purity: ( 98.16%,  98.16%),  hitEff: ( 88.86%,  88.86%)
+      long_strange :        5 from        5 ( 100.0%, 100.0%)        1 clones ( 20.00%), purity: ( 98.33%,  98.33%),  hitEff: ( 77.47%,  77.47%)
+ long_strange>5GeV :        2 from        2 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 78.57%,  78.57%)
+        long_fromb :        4 from        4 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 97.22%,  97.22%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 97.22%,  97.22%)
+
+making doublets took:  0.9513660000000073
+making neighbours took:  36.45633700000002
+ca took:  1.568249000000037
+extracting took:  52.10985699999998
+removing shorttracks took:  0.001350999999999658
+removing ghost_clones took:  0.1965659999999616
+CA method validation
+315 tracks including       11 ghosts (  3.5%). Event average   3.5%
+              velo :      276 from      287 ( 96.2%,  96.2%)       13 clones (  4.71%), purity: ( 98.76%,  98.76%),  hitEff: ( 92.19%,  92.19%)
+              long :       87 from       89 ( 97.8%,  97.8%)        9 clones ( 10.34%), purity: ( 98.45%,  98.45%),  hitEff: ( 88.20%,  88.20%)
+         long>5GeV :       58 from       59 ( 98.3%,  98.3%)        6 clones ( 10.34%), purity: ( 98.60%,  98.60%),  hitEff: ( 88.14%,  88.14%)
+      long_strange :        5 from        5 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+ long_strange>5GeV :        3 from        3 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+        long_fromb :        4 from        4 ( 100.0%, 100.0%)        1 clones ( 25.00%), purity: ( 97.14%,  97.14%),  hitEff: ( 81.25%,  81.25%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%, 100.0%)        1 clones ( 33.33%), purity: ( 96.43%,  96.43%),  hitEff: ( 76.56%,  76.56%)
+
+making doublets took:  2.6370299999999816
+making neighbours took:  263.62227599999994
+ca took:  4.164824999999951
+extracting took:  34.90755300000001
+removing shorttracks took:  0.005571000000031745
+removing ghost_clones took:  1.5161690000001045
+CA method validation
+642 tracks including       87 ghosts ( 13.6%). Event average  13.6%
+              velo :      517 from      572 ( 90.4%,  90.4%)       22 clones (  4.26%), purity: ( 97.68%,  97.68%),  hitEff: ( 90.61%,  90.61%)
+              long :      201 from      209 ( 96.2%,  96.2%)       12 clones (  5.97%), purity: ( 96.87%,  96.87%),  hitEff: ( 88.19%,  88.19%)
+         long>5GeV :      142 from      148 ( 95.9%,  95.9%)        7 clones (  4.93%), purity: ( 97.25%,  97.25%),  hitEff: ( 89.90%,  89.90%)
+      long_strange :        9 from        9 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 95.63%,  95.63%),  hitEff: ( 89.46%,  89.46%)
+ long_strange>5GeV :        8 from        8 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 96.88%,  96.88%),  hitEff: ( 88.14%,  88.14%)
+        long_fromb :        5 from        5 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+
+making doublets took:  1.8572279999999637
+making neighbours took:  99.657285
+ca took:  1.9472559999999248
+extracting took:  44.236576000000014
+removing shorttracks took:  0.002768999999943844
+removing ghost_clones took:  0.5492849999999407
+CA method validation
+476 tracks including       66 ghosts ( 13.9%). Event average  13.9%
+              velo :      373 from      410 ( 91.0%,  91.0%)       24 clones (  6.43%), purity: ( 97.70%,  97.70%),  hitEff: ( 89.85%,  89.85%)
+              long :      135 from      141 ( 95.7%,  95.7%)       13 clones (  9.63%), purity: ( 96.49%,  96.49%),  hitEff: ( 86.03%,  86.03%)
+         long>5GeV :       98 from      100 ( 98.0%,  98.0%)        9 clones (  9.18%), purity: ( 96.91%,  96.91%),  hitEff: ( 86.24%,  86.24%)
+      long_strange :        8 from        8 ( 100.0%, 100.0%)        1 clones ( 12.50%), purity: ( 96.85%,  96.85%),  hitEff: ( 84.96%,  84.96%)
+ long_strange>5GeV :        6 from        6 ( 100.0%, 100.0%)        1 clones ( 16.67%), purity: ( 95.95%,  95.95%),  hitEff: ( 80.66%,  80.66%)
+        long_fromb :        6 from        6 ( 100.0%, 100.0%)        1 clones ( 16.67%), purity: ( 96.19%,  96.19%),  hitEff: ( 83.33%,  83.33%)
+   long_fromb>5GeV :        6 from        6 ( 100.0%, 100.0%)        1 clones ( 16.67%), purity: ( 96.19%,  96.19%),  hitEff: ( 83.33%,  83.33%)
+
+making doublets took:  0.07480499999996937
+making neighbours took:  1.69213400000001
+ca took:  0.10201300000005631
+extracting took:  1.4071390000000292
+removing shorttracks took:  0.0001909999999725187
+removing ghost_clones took:  0.012788000000000466
+CA method validation
+107 tracks including        1 ghosts (  0.9%). Event average   0.9%
+              velo :       97 from      104 ( 93.3%,  93.3%)        5 clones (  5.15%), purity: ( 99.75%,  99.75%),  hitEff: ( 92.04%,  92.04%)
+              long :       37 from       37 ( 100.0%, 100.0%)        5 clones ( 13.51%), purity: (100.00%, 100.00%),  hitEff: ( 86.11%,  86.11%)
+         long>5GeV :       25 from       25 ( 100.0%, 100.0%)        3 clones ( 12.00%), purity: (100.00%, 100.00%),  hitEff: ( 88.69%,  88.69%)
+None,,,,,
+None,,,,,
+        long_fromb :        5 from        5 ( 100.0%, 100.0%)        2 clones ( 40.00%), purity: (100.00%, 100.00%),  hitEff: ( 71.43%,  71.43%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%, 100.0%)        2 clones ( 40.00%), purity: (100.00%, 100.00%),  hitEff: ( 71.43%,  71.43%)
+
+making doublets took:  0.24131500000009964
+making neighbours took:  5.893723000000023
+ca took:  0.286591000000044
+extracting took:  5.856789999999933
+removing shorttracks took:  0.00046499999996285624
+removing ghost_clones took:  0.03650900000002366
+CA method validation
+167 tracks including        6 ghosts (  3.6%). Event average   3.6%
+              velo :      149 from      161 ( 92.5%,  92.5%)        4 clones (  2.68%), purity: ( 99.21%,  99.21%),  hitEff: ( 93.89%,  93.89%)
+              long :       46 from       47 ( 97.9%,  97.9%)        2 clones (  4.35%), purity: ( 98.58%,  98.58%),  hitEff: ( 91.89%,  91.89%)
+         long>5GeV :       29 from       29 ( 100.0%, 100.0%)        1 clones (  3.45%), purity: ( 98.39%,  98.39%),  hitEff: ( 91.73%,  91.73%)
+None,,,,,
+None,,,,,
+        long_fromb :       10 from       10 ( 100.0%, 100.0%)        1 clones ( 10.00%), purity: ( 99.09%,  99.09%),  hitEff: ( 89.38%,  89.38%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%, 100.0%)        1 clones ( 14.29%), purity: ( 98.75%,  98.75%),  hitEff: ( 85.40%,  85.40%)
+
+making doublets took:  1.9587929999999005
+making neighbours took:  136.89941699999986
+ca took:  2.336185999999998
+extracting took:  18.390783000000056
+removing shorttracks took:  0.0035060000000157743
+removing ghost_clones took:  0.8872890000000098
+CA method validation
+581 tracks including       72 ghosts ( 12.4%). Event average  12.4%
+              velo :      473 from      531 ( 89.1%,  89.1%)       15 clones (  3.17%), purity: ( 98.11%,  98.11%),  hitEff: ( 93.03%,  93.03%)
+              long :      145 from      152 ( 95.4%,  95.4%)       12 clones (  8.28%), purity: ( 97.36%,  97.36%),  hitEff: ( 87.26%,  87.26%)
+         long>5GeV :      102 from      105 ( 97.1%,  97.1%)        8 clones (  7.84%), purity: ( 97.32%,  97.32%),  hitEff: ( 87.10%,  87.10%)
+      long_strange :        8 from        8 ( 100.0%, 100.0%)        1 clones ( 12.50%), purity: ( 92.69%,  92.69%),  hitEff: ( 84.09%,  84.09%)
+ long_strange>5GeV :        3 from        3 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 94.44%,  94.44%),  hitEff: (100.00%, 100.00%)
+        long_fromb :        5 from        5 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 92.67%,  92.67%),  hitEff: ( 86.00%,  86.00%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 90.83%,  90.83%),  hitEff: ( 82.50%,  82.50%)
+
+making doublets took:  2.4706240000000435
+making neighbours took:  210.93710099999998
+ca took:  3.4500829999999496
+extracting took:  35.81063199999994
+removing shorttracks took:  0.004938000000038301
+removing ghost_clones took:  1.276929999999993
+CA method validation
+596 tracks including       71 ghosts ( 11.9%). Event average  11.9%
+              velo :      482 from      535 ( 90.1%,  90.1%)       22 clones (  4.56%), purity: ( 98.13%,  98.13%),  hitEff: ( 90.99%,  90.99%)
+              long :      169 from      178 ( 94.9%,  94.9%)       12 clones (  7.10%), purity: ( 97.30%,  97.30%),  hitEff: ( 88.86%,  88.86%)
+         long>5GeV :      114 from      119 ( 95.8%,  95.8%)        8 clones (  7.02%), purity: ( 97.04%,  97.04%),  hitEff: ( 88.81%,  88.81%)
+      long_strange :        4 from        4 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 96.88%,  96.88%),  hitEff: (100.00%, 100.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 93.75%,  93.75%),  hitEff: (100.00%, 100.00%)
+        long_fromb :        5 from        6 ( 83.3%,  83.3%)        1 clones ( 20.00%), purity: (100.00%, 100.00%),  hitEff: ( 81.11%,  81.11%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%, 100.0%)        1 clones ( 25.00%), purity: (100.00%, 100.00%),  hitEff: ( 77.33%,  77.33%)
+
+making doublets took:  0.7584470000001602
+making neighbours took:  36.18814300000008
+ca took:  1.0379829999999401
+extracting took:  10.498931999999968
+removing shorttracks took:  0.0012689999998656276
+removing ghost_clones took:  0.1689640000001873
+CA method validation
+318 tracks including        8 ghosts (  2.5%). Event average   2.5%
+              velo :      284 from      301 ( 94.4%,  94.4%)       10 clones (  3.52%), purity: ( 98.47%,  98.47%),  hitEff: ( 93.01%,  93.01%)
+              long :       90 from       92 ( 97.8%,  97.8%)        5 clones (  5.56%), purity: ( 97.83%,  97.83%),  hitEff: ( 89.76%,  89.76%)
+         long>5GeV :       53 from       54 ( 98.1%,  98.1%)        4 clones (  7.55%), purity: ( 97.09%,  97.09%),  hitEff: ( 86.61%,  86.61%)
+      long_strange :        7 from        7 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 90.71%,  90.71%),  hitEff: ( 96.43%,  96.43%)
+ long_strange>5GeV :        4 from        4 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 83.75%,  83.75%),  hitEff: ( 93.75%,  93.75%)
+        long_fromb :        8 from        8 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 94.10%,  94.10%)
+   long_fromb>5GeV :        6 from        6 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 93.98%,  93.98%)
+
+making doublets took:  0.48330299999997806
+making neighbours took:  15.2778780000001
+ca took:  0.7131900000001679
+extracting took:  36.72989299999995
+removing shorttracks took:  0.0008259999999609136
+removing ghost_clones took:  0.09167299999990064
+CA method validation
+249 tracks including        9 ghosts (  3.6%). Event average   3.6%
+              velo :      217 from      235 ( 92.3%,  92.3%)       13 clones (  5.99%), purity: ( 99.39%,  99.39%),  hitEff: ( 91.29%,  91.29%)
+              long :       66 from       69 ( 95.7%,  95.7%)        9 clones ( 13.64%), purity: ( 99.42%,  99.42%),  hitEff: ( 85.10%,  85.10%)
+         long>5GeV :       43 from       43 ( 100.0%, 100.0%)        5 clones ( 11.63%), purity: ( 99.70%,  99.70%),  hitEff: ( 87.99%,  87.99%)
+      long_strange :        1 from        1 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+None,,,,,
+        long_fromb :        5 from        5 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 96.82%,  96.82%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 98.53%,  98.53%)
+
+making doublets took:  0.16629399999987982
+making neighbours took:  3.004180000000133
+ca took:  0.17380100000013954
+extracting took:  2.672255999999834
+removing shorttracks took:  0.00032499999997526174
+removing ghost_clones took:  0.01972000000000662
+CA method validation
+144 tracks including        1 ghosts (  0.7%). Event average   0.7%
+              velo :      132 from      139 ( 95.0%,  95.0%)        2 clones (  1.52%), purity: ( 99.73%,  99.73%),  hitEff: ( 96.05%,  96.05%)
+              long :       37 from       38 ( 97.4%,  97.4%)        2 clones (  5.41%), purity: ( 99.68%,  99.68%),  hitEff: ( 92.83%,  92.83%)
+         long>5GeV :       25 from       26 ( 96.2%,  96.2%)        2 clones (  8.00%), purity: ( 99.54%,  99.54%),  hitEff: ( 90.57%,  90.57%)
+      long_strange :        1 from        1 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+None,,,,,
+        long_fromb :        3 from        3 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+
+making doublets took:  0.9121560000000954
+making neighbours took:  43.59966300000019
+ca took:  1.2643779999998515
+extracting took:  21.909599999999955
+removing shorttracks took:  0.0015030000001843291
+removing ghost_clones took:  0.23472199999991972
+CA method validation
+329 tracks including        8 ghosts (  2.4%). Event average   2.4%
+              velo :      301 from      315 ( 95.6%,  95.6%)        6 clones (  1.99%), purity: ( 99.07%,  99.07%),  hitEff: ( 94.96%,  94.96%)
+              long :      128 from      130 ( 98.5%,  98.5%)        4 clones (  3.12%), purity: ( 99.44%,  99.44%),  hitEff: ( 93.54%,  93.54%)
+         long>5GeV :       80 from       81 ( 98.8%,  98.8%)        2 clones (  2.50%), purity: ( 99.47%,  99.47%),  hitEff: ( 93.83%,  93.83%)
+      long_strange :        6 from        6 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 92.29%,  92.29%)
+ long_strange>5GeV :        1 from        1 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+        long_fromb :        2 from        2 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+   long_fromb>5GeV :        1 from        1 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+
+making doublets took:  1.6727499999999509
+making neighbours took:  102.20900200000005
+ca took:  2.02837599999998
+extracting took:  18.199197999999797
+removing shorttracks took:  0.0027399999999033753
+removing ghost_clones took:  0.5801089999999931
+CA method validation
+534 tracks including       78 ghosts ( 14.6%). Event average  14.6%
+              velo :      418 from      475 ( 88.0%,  88.0%)       16 clones (  3.83%), purity: ( 98.00%,  98.00%),  hitEff: ( 91.20%,  91.20%)
+              long :      153 from      159 ( 96.2%,  96.2%)       10 clones (  6.54%), purity: ( 97.54%,  97.54%),  hitEff: ( 88.29%,  88.29%)
+         long>5GeV :       98 from       99 ( 99.0%,  99.0%)        7 clones (  7.14%), purity: ( 98.18%,  98.18%),  hitEff: ( 87.89%,  87.89%)
+      long_strange :        4 from        4 ( 100.0%, 100.0%)        1 clones ( 25.00%), purity: ( 93.33%,  93.33%),  hitEff: ( 73.00%,  73.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 91.67%,  91.67%),  hitEff: ( 87.50%,  87.50%)
+        long_fromb :        9 from        9 ( 100.0%, 100.0%)        1 clones ( 11.11%), purity: ( 89.53%,  89.53%),  hitEff: ( 70.00%,  70.00%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 93.78%,  93.78%),  hitEff: ( 70.44%,  70.44%)
+
+making doublets took:  0.59914700000013
+making neighbours took:  26.789672999999993
+ca took:  1.0018549999999777
+extracting took:  26.18686200000002
+removing shorttracks took:  0.0011819999999715947
+removing ghost_clones took:  0.14859099999989667
+CA method validation
+292 tracks including       20 ghosts (  6.8%). Event average   6.8%
+              velo :      248 from      269 ( 92.2%,  92.2%)       12 clones (  4.84%), purity: ( 98.83%,  98.83%),  hitEff: ( 91.58%,  91.58%)
+              long :      104 from      107 ( 97.2%,  97.2%)        8 clones (  7.69%), purity: ( 98.89%,  98.89%),  hitEff: ( 89.39%,  89.39%)
+         long>5GeV :       64 from       65 ( 98.5%,  98.5%)        2 clones (  3.12%), purity: ( 99.30%,  99.30%),  hitEff: ( 94.36%,  94.36%)
+      long_strange :        3 from        3 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+        long_fromb :        4 from        4 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 96.43%,  96.43%),  hitEff: ( 96.43%,  96.43%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 96.43%,  96.43%),  hitEff: ( 96.43%,  96.43%)
+
+making doublets took:  0.7851279999999861
+making neighbours took:  33.163385999999946
+ca took:  1.0983220000000529
+extracting took:  19.477073999999902
+removing shorttracks took:  0.0012589999998908752
+removing ghost_clones took:  0.171100000000024
+CA method validation
+340 tracks including       28 ghosts (  8.2%). Event average   8.2%
+              velo :      287 from      307 ( 93.5%,  93.5%)       11 clones (  3.83%), purity: ( 98.44%,  98.44%),  hitEff: ( 92.25%,  92.25%)
+              long :       83 from       85 ( 97.6%,  97.6%)        9 clones ( 10.84%), purity: ( 97.69%,  97.69%),  hitEff: ( 85.42%,  85.42%)
+         long>5GeV :       50 from       52 ( 96.2%,  96.2%)        8 clones ( 16.00%), purity: ( 97.44%,  97.44%),  hitEff: ( 80.31%,  80.31%)
+      long_strange :        3 from        3 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 94.44%,  94.44%),  hitEff: ( 94.44%,  94.44%)
+ long_strange>5GeV :        1 from        1 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+        long_fromb :        2 from        2 ( 100.0%, 100.0%)        1 clones ( 50.00%), purity: ( 85.00%,  85.00%),  hitEff: ( 51.28%,  51.28%)
+   long_fromb>5GeV :        2 from        2 ( 100.0%, 100.0%)        1 clones ( 50.00%), purity: ( 85.00%,  85.00%),  hitEff: ( 51.28%,  51.28%)
+
+making doublets took:  2.0000330000000304
+making neighbours took:  134.119872
+ca took:  2.245771999999988
+extracting took:  21.239974000000075
+removing shorttracks took:  0.003309000000172091
+removing ghost_clones took:  0.7849060000000918
+CA method validation
+557 tracks including       54 ghosts (  9.7%). Event average   9.7%
+              velo :      466 from      499 ( 93.4%,  93.4%)       15 clones (  3.22%), purity: ( 98.50%,  98.50%),  hitEff: ( 92.12%,  92.12%)
+              long :      141 from      143 ( 98.6%,  98.6%)        9 clones (  6.38%), purity: ( 98.72%,  98.72%),  hitEff: ( 89.92%,  89.92%)
+         long>5GeV :       95 from       96 ( 99.0%,  99.0%)        9 clones (  9.47%), purity: ( 98.32%,  98.32%),  hitEff: ( 87.04%,  87.04%)
+      long_strange :        9 from       10 ( 90.0%,  90.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 93.52%,  93.52%)
+ long_strange>5GeV :        2 from        2 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 95.83%,  95.83%)
+        long_fromb :        7 from        7 ( 100.0%, 100.0%)        1 clones ( 14.29%), purity: (100.00%, 100.00%),  hitEff: ( 81.22%,  81.22%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%, 100.0%)        1 clones ( 14.29%), purity: (100.00%, 100.00%),  hitEff: ( 81.22%,  81.22%)
+
+making doublets took:  1.7167429999999513
+making neighbours took:  107.84792299999981
+ca took:  2.1027060000001256
+extracting took:  12.354209999999966
+removing shorttracks took:  0.002767999999832682
+removing ghost_clones took:  0.6273409999998876
+CA method validation
+550 tracks including       72 ghosts ( 13.1%). Event average  13.1%
+              velo :      447 from      487 ( 91.8%,  91.8%)       17 clones (  3.80%), purity: ( 98.15%,  98.15%),  hitEff: ( 91.80%,  91.80%)
+              long :      150 from      154 ( 97.4%,  97.4%)       11 clones (  7.33%), purity: ( 98.16%,  98.16%),  hitEff: ( 88.20%,  88.20%)
+         long>5GeV :       98 from      101 ( 97.0%,  97.0%)        9 clones (  9.18%), purity: ( 98.35%,  98.35%),  hitEff: ( 86.99%,  86.99%)
+      long_strange :        5 from        5 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 97.14%,  97.14%),  hitEff: ( 95.32%,  95.32%)
+ long_strange>5GeV :        4 from        4 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 96.43%,  96.43%),  hitEff: ( 94.16%,  94.16%)
+        long_fromb :        4 from        4 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 97.50%,  97.50%),  hitEff: ( 97.50%,  97.50%)
+   long_fromb>5GeV :        1 from        1 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+
+making doublets took:  0.20666099999971266
+making neighbours took:  4.508871999999883
+ca took:  0.27670199999965917
+extracting took:  13.392775999999685
+removing shorttracks took:  0.00048500000002604793
+removing ghost_clones took:  0.04000099999984741
+CA method validation
+122 tracks including        2 ghosts (  1.6%). Event average   1.6%
+              velo :      107 from      114 ( 93.9%,  93.9%)        7 clones (  6.54%), purity: ( 99.48%,  99.48%),  hitEff: ( 91.67%,  91.67%)
+              long :       54 from       54 ( 100.0%, 100.0%)        5 clones (  9.26%), purity: ( 99.58%,  99.58%),  hitEff: ( 89.61%,  89.61%)
+         long>5GeV :       29 from       29 ( 100.0%, 100.0%)        2 clones (  6.90%), purity: (100.00%, 100.00%),  hitEff: ( 90.84%,  90.84%)
+      long_strange :        2 from        2 ( 100.0%, 100.0%)        1 clones ( 50.00%), purity: (100.00%, 100.00%),  hitEff: ( 66.67%,  66.67%)
+ long_strange>5GeV :        2 from        2 ( 100.0%, 100.0%)        1 clones ( 50.00%), purity: (100.00%, 100.00%),  hitEff: ( 66.67%,  66.67%)
+        long_fromb :       13 from       13 ( 100.0%, 100.0%)        1 clones (  7.69%), purity: (100.00%, 100.00%),  hitEff: ( 91.19%,  91.19%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 98.18%,  98.18%)
+
+making doublets took:  0.3917109999997592
+making neighbours took:  11.60649199999989
+ca took:  0.6455909999999676
+extracting took:  15.003190999999788
+removing shorttracks took:  0.0007009999999354477
+removing ghost_clones took:  0.08224300000028961
+CA method validation
+218 tracks including        7 ghosts (  3.2%). Event average   3.2%
+              velo :      198 from      209 ( 94.7%,  94.7%)        5 clones (  2.53%), purity: ( 99.25%,  99.25%),  hitEff: ( 94.94%,  94.94%)
+              long :       64 from       65 ( 98.5%,  98.5%)        2 clones (  3.12%), purity: ( 99.00%,  99.00%),  hitEff: ( 94.05%,  94.05%)
+         long>5GeV :       44 from       45 ( 97.8%,  97.8%)        1 clones (  2.27%), purity: ( 98.54%,  98.54%),  hitEff: ( 94.55%,  94.55%)
+None,,,,,
+None,,,,,
+        long_fromb :        8 from        8 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+
+making doublets took:  0.39148599999998623
+making neighbours took:  10.771066999999675
+ca took:  0.46055100000012317
+extracting took:  8.10225999999966
+removing shorttracks took:  0.0006829999997535197
+removing ghost_clones took:  0.06814299999996365
+CA method validation
+228 tracks including       11 ghosts (  4.8%). Event average   4.8%
+              velo :      192 from      205 ( 93.7%,  93.7%)        6 clones (  3.12%), purity: ( 98.38%,  98.38%),  hitEff: ( 92.17%,  92.17%)
+              long :       62 from       63 ( 98.4%,  98.4%)        4 clones (  6.45%), purity: ( 97.58%,  97.58%),  hitEff: ( 89.20%,  89.20%)
+         long>5GeV :       50 from       51 ( 98.0%,  98.0%)        4 clones (  8.00%), purity: ( 97.27%,  97.27%),  hitEff: ( 88.50%,  88.50%)
+      long_strange :        2 from        2 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 75.00%,  75.00%)
+None,,,,,
+        long_fromb :        5 from        5 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 96.00%,  96.00%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 96.00%,  96.00%)
+
+making doublets took:  0.6273880000003373
+making neighbours took:  26.055609000000004
+ca took:  0.8605390000002444
+extracting took:  25.929669999999987
+removing shorttracks took:  0.0010980000001836743
+removing ghost_clones took:  0.1366800000000694
+CA method validation
+276 tracks including       21 ghosts (  7.6%). Event average   7.6%
+              velo :      226 from      248 ( 91.1%,  91.1%)        7 clones (  3.10%), purity: ( 98.28%,  98.28%),  hitEff: ( 91.87%,  91.87%)
+              long :       78 from       82 ( 95.1%,  95.1%)        5 clones (  6.41%), purity: ( 98.48%,  98.48%),  hitEff: ( 89.46%,  89.46%)
+         long>5GeV :       49 from       51 ( 96.1%,  96.1%)        3 clones (  6.12%), purity: ( 98.45%,  98.45%),  hitEff: ( 88.98%,  88.98%)
+      long_strange :        2 from        2 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 90.00%,  90.00%),  hitEff: (100.00%, 100.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 90.00%,  90.00%),  hitEff: (100.00%, 100.00%)
+        long_fromb :        7 from        7 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 96.83%,  96.83%),  hitEff: ( 81.77%,  81.77%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 95.56%,  95.56%),  hitEff: ( 74.48%,  74.48%)
+
+making doublets took:  1.5221400000000358
+making neighbours took:  90.43290500000012
+ca took:  1.8252519999996366
+extracting took:  25.490861000000223
+removing shorttracks took:  0.0024830000002111774
+removing ghost_clones took:  0.5311550000001262
+CA method validation
+507 tracks including       86 ghosts ( 17.0%). Event average  17.0%
+              velo :      392 from      439 ( 89.3%,  89.3%)       13 clones (  3.32%), purity: ( 98.39%,  98.63%),  hitEff: ( 92.33%,  92.33%)
+              long :      114 from      117 ( 97.4%,  97.4%)       13 clones ( 11.40%), purity: ( 97.89%,  97.89%),  hitEff: ( 85.35%,  85.35%)
+         long>5GeV :       78 from       79 ( 98.7%,  98.7%)       11 clones ( 14.10%), purity: ( 97.85%,  97.85%),  hitEff: ( 83.58%,  83.58%)
+      long_strange :        2 from        2 ( 100.0%, 100.0%)        1 clones ( 50.00%), purity: ( 95.24%,  95.24%),  hitEff: ( 66.67%,  66.67%)
+None,,,,,
+        long_fromb :        4 from        4 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 97.92%,  97.92%),  hitEff: ( 96.15%,  96.15%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 97.22%,  97.22%),  hitEff: ( 94.87%,  94.87%)
+
+making doublets took:  0.7699929999998858
+making neighbours took:  28.81544100000019
+ca took:  0.9616030000001956
+extracting took:  11.129737000000205
+removing shorttracks took:  0.001243000000158645
+removing ghost_clones took:  0.17147699999986799
+CA method validation
+322 tracks including       11 ghosts (  3.4%). Event average   3.4%
+              velo :      294 from      311 ( 94.5%,  94.5%)       10 clones (  3.40%), purity: ( 99.14%,  99.14%),  hitEff: ( 94.06%,  94.06%)
+              long :       82 from       85 ( 96.5%,  96.5%)        3 clones (  3.66%), purity: ( 98.20%,  98.20%),  hitEff: ( 93.25%,  93.25%)
+         long>5GeV :       53 from       55 ( 96.4%,  96.4%)        1 clones (  1.89%), purity: ( 97.84%,  97.84%),  hitEff: ( 94.41%,  94.41%)
+      long_strange :        4 from        5 ( 80.0%,  80.0%)        0 clones (  0.00%), purity: ( 90.83%,  90.83%),  hitEff: ( 95.00%,  95.00%)
+ long_strange>5GeV :        2 from        3 ( 66.7%,  66.7%)        0 clones (  0.00%), purity: ( 81.67%,  81.67%),  hitEff: (100.00%, 100.00%)
+        long_fromb :        7 from        7 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 91.90%,  91.90%),  hitEff: ( 91.67%,  91.67%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 91.90%,  91.90%),  hitEff: ( 91.67%,  91.67%)
+
+making doublets took:  0.11839200000031269
+making neighbours took:  2.227715999999873
+ca took:  0.15128199999981007
+extracting took:  2.7718870000003335
+removing shorttracks took:  0.00022399999988920172
+removing ghost_clones took:  0.015297999999802414
+CA method validation
+114 tracks including        1 ghosts (  0.9%). Event average   0.9%
+              velo :       96 from       99 ( 97.0%,  97.0%)        8 clones (  8.33%), purity: ( 99.51%,  99.51%),  hitEff: ( 87.26%,  87.26%)
+              long :       49 from       49 ( 100.0%, 100.0%)        6 clones ( 12.24%), purity: (100.00%, 100.00%),  hitEff: ( 86.02%,  86.02%)
+         long>5GeV :       30 from       30 ( 100.0%, 100.0%)        2 clones (  6.67%), purity: (100.00%, 100.00%),  hitEff: ( 89.70%,  89.70%)
+      long_strange :        3 from        3 ( 100.0%, 100.0%)        1 clones ( 33.33%), purity: (100.00%, 100.00%),  hitEff: ( 75.00%,  75.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+        long_fromb :        5 from        5 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 96.00%,  96.00%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+
+making doublets took:  0.8361920000002101
+making neighbours took:  36.80635499999971
+ca took:  1.170810000000074
+extracting took:  30.04785899999979
+removing shorttracks took:  0.0013599999997495615
+removing ghost_clones took:  0.22960699999975986
+CA method validation
+286 tracks including       14 ghosts (  4.9%). Event average   4.9%
+              velo :      240 from      256 ( 93.8%,  93.8%)       15 clones (  6.25%), purity: ( 98.37%,  98.76%),  hitEff: ( 91.14%,  91.14%)
+              long :      102 from      105 ( 97.1%,  97.1%)       10 clones (  9.80%), purity: ( 98.83%,  98.83%),  hitEff: ( 88.77%,  88.77%)
+         long>5GeV :       73 from       74 ( 98.6%,  98.6%)        6 clones (  8.22%), purity: ( 98.60%,  98.60%),  hitEff: ( 89.75%,  89.75%)
+      long_strange :        4 from        5 ( 80.0%,  80.0%)        0 clones (  0.00%), purity: ( 95.00%,  95.00%),  hitEff: (100.00%, 100.00%)
+ long_strange>5GeV :        3 from        3 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 93.33%,  93.33%),  hitEff: (100.00%, 100.00%)
+        long_fromb :       12 from       12 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 96.55%,  96.55%),  hitEff: ( 97.74%,  97.74%)
+   long_fromb>5GeV :       10 from       10 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: ( 97.29%,  97.29%),  hitEff: ( 97.29%,  97.29%)
+
+making doublets took:  0.7470259999995505
+making neighbours took:  34.83461699999998
+ca took:  0.7926649999999427
+extracting took:  4.695107999999891
+removing shorttracks took:  0.001164000000244414
+removing ghost_clones took:  0.14542299999993702
+CA method validation
+334 tracks including       11 ghosts (  3.3%). Event average   3.3%
+              velo :      292 from      311 ( 93.9%,  93.9%)       16 clones (  5.48%), purity: ( 98.84%,  98.84%),  hitEff: ( 91.14%,  91.14%)
+              long :       98 from       99 ( 99.0%,  99.0%)       14 clones ( 14.29%), purity: ( 98.91%,  98.91%),  hitEff: ( 83.47%,  83.47%)
+         long>5GeV :       70 from       71 ( 98.6%,  98.6%)       12 clones ( 17.14%), purity: ( 98.63%,  98.63%),  hitEff: ( 80.89%,  80.89%)
+      long_strange :        1 from        1 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: ( 80.00%,  80.00%)
+None,,,,,
+        long_fromb :        6 from        7 ( 85.7%,  85.7%)        1 clones ( 16.67%), purity: ( 97.62%,  97.62%),  hitEff: ( 78.00%,  78.00%)
+   long_fromb>5GeV :        4 from        5 ( 80.0%,  80.0%)        1 clones ( 25.00%), purity: ( 96.67%,  96.67%),  hitEff: ( 71.43%,  71.43%)
+
+making doublets took:  0.21477999999979147
+making neighbours took:  4.765733999999611
+ca took:  0.30145900000024994
+extracting took:  10.097224000000097
+removing shorttracks took:  0.0007009999999354477
+removing ghost_clones took:  0.04028999999991356
+CA method validation
+161 tracks including        2 ghosts (  1.2%). Event average   1.2%
+              velo :      143 from      145 ( 98.6%,  98.6%)        8 clones (  5.59%), purity: ( 98.72%,  98.72%),  hitEff: ( 91.09%,  91.09%)
+              long :       45 from       45 ( 100.0%, 100.0%)        5 clones ( 11.11%), purity: ( 99.35%,  99.35%),  hitEff: ( 87.51%,  87.51%)
+         long>5GeV :       25 from       25 ( 100.0%, 100.0%)        2 clones (  8.00%), purity: ( 99.07%,  99.07%),  hitEff: ( 92.59%,  92.59%)
+      long_strange :        3 from        3 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+ long_strange>5GeV :        1 from        1 ( 100.0%, 100.0%)        0 clones (  0.00%), purity: (100.00%, 100.00%),  hitEff: (100.00%, 100.00%)
+        long_fromb :        2 from        2 ( 100.0%, 100.0%)        1 clones ( 50.00%), purity: (100.00%, 100.00%),  hitEff: ( 64.10%,  64.10%)
+None,,,,,
+

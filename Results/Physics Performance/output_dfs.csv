@@ -1,0 +1,629 @@
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+845 tracks including      254 ghosts ( 30.1%). Event average  30.1%,,,,,
+              velo :      441 from      501 ( 88.0%,  88.0%)      119 clones ( 26.98%), purity: ( 95.17%,  95.17%),  hitEff: ( 86.87%,  86.87%)
+              long :      148 from      152 ( 97.4%,  97.4%)       27 clones ( 18.24%), purity: ( 96.32%,  96.32%),  hitEff: ( 82.28%,  82.28%)
+         long>5GeV :      103 from      105 ( 98.1%,  98.1%)       21 clones ( 20.39%), purity: ( 96.46%,  96.46%),  hitEff: ( 82.45%,  82.45%)
+      long_strange :       11 from       11 ( 100.0%,  100.0%)        1 clones (  9.09%), purity: ( 94.54%,  94.54%),  hitEff: ( 97.02%,  97.02%)
+ long_strange>5GeV :        6 from        6 ( 100.0%,  100.0%)        1 clones ( 16.67%), purity: ( 93.03%,  93.03%),  hitEff: ( 94.90%,  94.90%)
+        long_fromb :        6 from        6 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 94.32%,  94.32%),  hitEff: ( 96.15%,  96.15%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 93.18%,  93.18%),  hitEff: ( 95.38%,  95.38%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+865 tracks including      269 ghosts ( 31.1%). Event average  31.1%,,,,,
+              velo :      431 from      499 ( 86.4%,  86.4%)      144 clones ( 33.41%), purity: ( 94.46%,  94.46%),  hitEff: ( 86.31%,  86.31%)
+              long :      134 from      143 ( 93.7%,  93.7%)       34 clones ( 25.37%), purity: ( 95.85%,  95.85%),  hitEff: ( 80.72%,  80.72%)
+         long>5GeV :       92 from       96 ( 95.8%,  95.8%)       27 clones ( 29.35%), purity: ( 95.48%,  95.48%),  hitEff: ( 79.50%,  79.50%)
+      long_strange :        7 from       10 ( 70.0%,  70.0%)        2 clones ( 28.57%), purity: ( 94.91%,  94.91%),  hitEff: ( 94.44%,  94.44%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 87.50%,  87.50%)
+        long_fromb :        7 from        7 ( 100.0%,  100.0%)        2 clones ( 28.57%), purity: ( 93.61%,  93.61%),  hitEff: ( 82.41%,  82.41%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%,  100.0%)        2 clones ( 28.57%), purity: ( 93.61%,  93.61%),  hitEff: ( 82.41%,  82.41%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+250 tracks including       21 ghosts (  8.4%). Event average   8.4%,,,,,
+              velo :      197 from      209 ( 94.3%,  94.3%)       24 clones ( 12.18%), purity: ( 97.94%,  97.94%),  hitEff: ( 92.81%,  92.81%)
+              long :       65 from       65 ( 100.0%,  100.0%)        6 clones (  9.23%), purity: ( 97.84%,  97.84%),  hitEff: ( 92.03%,  92.03%)
+         long>5GeV :       45 from       45 ( 100.0%,  100.0%)        5 clones ( 11.11%), purity: ( 97.62%,  97.62%),  hitEff: ( 90.32%,  90.32%)
+None,,,,,
+None,,,,,
+        long_fromb :        8 from        8 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 97.50%,  97.50%),  hitEff: ( 97.50%,  97.50%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+169 tracks including        7 ghosts (  4.1%). Event average   4.1%,,,,,
+              velo :      134 from      139 ( 96.4%,  96.4%)       16 clones ( 11.94%), purity: ( 97.63%,  97.63%),  hitEff: ( 93.94%,  93.94%)
+              long :       38 from       38 ( 100.0%,  100.0%)        4 clones ( 10.53%), purity: ( 98.54%,  98.54%),  hitEff: ( 90.65%,  90.65%)
+         long>5GeV :       26 from       26 ( 100.0%,  100.0%)        3 clones ( 11.54%), purity: ( 98.32%,  98.32%),  hitEff: ( 87.75%,  87.75%)
+      long_strange :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+None,,,,,
+        long_fromb :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+340 tracks including       40 ghosts ( 11.8%). Event average  11.8%,,,,,
+              velo :      248 from      269 ( 92.2%,  92.2%)       34 clones ( 13.71%), purity: ( 97.54%,  97.54%),  hitEff: ( 89.10%,  89.10%)
+              long :      102 from      107 ( 95.3%,  95.3%)       12 clones ( 11.76%), purity: ( 97.63%,  97.63%),  hitEff: ( 86.90%,  86.90%)
+         long>5GeV :       63 from       65 ( 96.9%,  96.9%)        4 clones (  6.35%), purity: ( 98.32%,  98.32%),  hitEff: ( 90.94%,  90.94%)
+      long_strange :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        3 from        4 ( 75.0%,  75.0%)        0 clones (  0.00%), purity: ( 95.24%,  95.24%),  hitEff: ( 95.24%,  95.24%)
+   long_fromb>5GeV :        3 from        4 ( 75.0%,  75.0%)        0 clones (  0.00%), purity: ( 95.24%,  95.24%),  hitEff: ( 95.24%,  95.24%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+1062 tracks including      434 ghosts ( 40.9%). Event average  40.9%,,,,,
+              velo :      475 from      535 ( 88.8%,  88.8%)      126 clones ( 26.53%), purity: ( 95.27%,  95.27%),  hitEff: ( 84.44%,  84.44%)
+              long :      168 from      178 ( 94.4%,  94.4%)       48 clones ( 28.57%), purity: ( 95.38%,  95.38%),  hitEff: ( 78.31%,  78.31%)
+         long>5GeV :      113 from      119 ( 95.0%,  95.0%)       34 clones ( 30.09%), purity: ( 94.84%,  94.84%),  hitEff: ( 80.53%,  80.53%)
+      long_strange :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        5 from        6 ( 83.3%,  83.3%)        1 clones ( 20.00%), purity: ( 96.40%,  96.40%),  hitEff: ( 79.44%,  79.44%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        1 clones ( 25.00%), purity: ( 95.68%,  95.68%),  hitEff: ( 75.33%,  75.33%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+380 tracks including       42 ghosts ( 11.1%). Event average  11.1%,,,,,
+              velo :      268 from      287 ( 93.4%,  93.4%)       52 clones ( 19.40%), purity: ( 97.02%,  97.02%),  hitEff: ( 88.18%,  88.18%)
+              long :       85 from       89 ( 95.5%,  95.5%)       17 clones ( 20.00%), purity: ( 97.98%,  97.98%),  hitEff: ( 81.91%,  81.91%)
+         long>5GeV :       57 from       59 ( 96.6%,  96.6%)       11 clones ( 19.30%), purity: ( 98.30%,  98.30%),  hitEff: ( 82.77%,  82.77%)
+      long_strange :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 98.46%,  98.46%)
+ long_strange>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 97.44%,  97.44%)
+        long_fromb :        4 from        4 ( 100.0%,  100.0%)        1 clones ( 25.00%), purity: ( 95.00%,  95.00%),  hitEff: ( 79.75%,  79.75%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%,  100.0%)        1 clones ( 33.33%), purity: ( 93.75%,  93.75%),  hitEff: ( 79.69%,  79.69%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+297 tracks including       31 ghosts ( 10.4%). Event average  10.4%,,,,,
+              velo :      192 from      205 ( 93.7%,  93.7%)       47 clones ( 24.48%), purity: ( 95.93%,  95.93%),  hitEff: ( 87.09%,  87.09%)
+              long :       62 from       63 ( 98.4%,  98.4%)       11 clones ( 17.74%), purity: ( 96.36%,  96.36%),  hitEff: ( 84.62%,  84.62%)
+         long>5GeV :       50 from       51 ( 98.0%,  98.0%)       11 clones ( 22.00%), purity: ( 95.85%,  95.85%),  hitEff: ( 82.85%,  82.85%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 95.00%,  95.00%)
+None,,,,,
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 96.00%,  96.00%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 96.00%,  96.00%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+674 tracks including      191 ghosts ( 28.3%). Event average  28.3%,,,,,
+              velo :      371 from      410 ( 90.5%,  90.5%)       95 clones ( 25.61%), purity: ( 95.56%,  95.56%),  hitEff: ( 83.76%,  83.76%)
+              long :      136 from      141 ( 96.5%,  96.5%)       36 clones ( 26.47%), purity: ( 95.73%,  95.73%),  hitEff: ( 78.64%,  78.64%)
+         long>5GeV :       98 from      100 ( 98.0%,  98.0%)       28 clones ( 28.57%), purity: ( 96.44%,  96.44%),  hitEff: ( 77.93%,  77.93%)
+      long_strange :        8 from        8 ( 100.0%,  100.0%)        4 clones ( 50.00%), purity: ( 92.60%,  92.60%),  hitEff: ( 65.06%,  65.06%)
+ long_strange>5GeV :        6 from        6 ( 100.0%,  100.0%)        2 clones ( 33.33%), purity: ( 96.11%,  96.11%),  hitEff: ( 71.54%,  71.54%)
+        long_fromb :        6 from        6 ( 100.0%,  100.0%)        4 clones ( 66.67%), purity: ( 91.86%,  91.86%),  hitEff: ( 74.87%,  74.87%)
+   long_fromb>5GeV :        6 from        6 ( 100.0%,  100.0%)        4 clones ( 66.67%), purity: ( 91.86%,  91.86%),  hitEff: ( 74.87%,  74.87%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+892 tracks including      273 ghosts ( 30.6%). Event average  30.6%,,,,,
+              velo :      464 from      531 ( 87.4%,  87.4%)      129 clones ( 27.80%), purity: ( 94.91%,  94.91%),  hitEff: ( 87.14%,  87.14%)
+              long :      147 from      152 ( 96.7%,  96.7%)       33 clones ( 22.45%), purity: ( 95.65%,  95.65%),  hitEff: ( 81.50%,  81.50%)
+         long>5GeV :      102 from      105 ( 97.1%,  97.1%)       24 clones ( 23.53%), purity: ( 95.65%,  95.65%),  hitEff: ( 82.08%,  82.08%)
+      long_strange :        8 from        8 ( 100.0%,  100.0%)        1 clones ( 12.50%), purity: ( 94.91%,  94.91%),  hitEff: ( 89.31%,  89.31%)
+ long_strange>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 94.44%,  94.44%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        3 from        5 ( 60.0%,  60.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        2 from        4 ( 50.0%,  50.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+794 tracks including      219 ghosts ( 27.6%). Event average  27.6%,,,,,
+              velo :      423 from      475 ( 89.1%,  89.1%)      124 clones ( 29.31%), purity: ( 94.55%,  94.55%),  hitEff: ( 84.98%,  84.98%)
+              long :      155 from      159 ( 97.5%,  97.5%)       36 clones ( 23.23%), purity: ( 95.06%,  95.06%),  hitEff: ( 80.97%,  80.97%)
+         long>5GeV :       98 from       99 ( 99.0%,  99.0%)       26 clones ( 26.53%), purity: ( 95.15%,  95.15%),  hitEff: ( 81.49%,  81.49%)
+      long_strange :        4 from        4 ( 100.0%,  100.0%)        3 clones ( 75.00%), purity: ( 91.19%,  91.19%),  hitEff: ( 53.57%,  53.57%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 91.67%,  91.67%),  hitEff: ( 87.50%,  87.50%)
+        long_fromb :        8 from        9 ( 88.9%,  88.9%)        1 clones ( 12.50%), purity: ( 85.22%,  85.22%),  hitEff: ( 78.43%,  78.43%)
+   long_fromb>5GeV :        4 from        5 ( 80.0%,  80.0%)        0 clones (  0.00%), purity: ( 79.52%,  79.52%),  hitEff: ( 66.67%,  66.67%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+432 tracks including       62 ghosts ( 14.4%). Event average  14.4%,,,,,
+              velo :      300 from      315 ( 95.2%,  95.2%)       52 clones ( 17.33%), purity: ( 97.36%,  97.36%),  hitEff: ( 88.49%,  88.49%)
+              long :      127 from      130 ( 97.7%,  97.7%)       19 clones ( 14.96%), purity: ( 98.24%,  98.24%),  hitEff: ( 87.52%,  87.52%)
+         long>5GeV :       79 from       81 ( 97.5%,  97.5%)       14 clones ( 17.72%), purity: ( 97.68%,  97.68%),  hitEff: ( 87.95%,  87.95%)
+      long_strange :        6 from        6 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 92.29%,  92.29%)
+ long_strange>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+   long_fromb>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+350 tracks including       50 ghosts ( 14.3%). Event average  14.3%,,,,,
+              velo :      230 from      248 ( 92.7%,  92.7%)       44 clones ( 19.13%), purity: ( 96.34%,  96.34%),  hitEff: ( 88.12%,  88.12%)
+              long :       81 from       82 ( 98.8%,  98.8%)       20 clones ( 24.69%), purity: ( 95.43%,  95.43%),  hitEff: ( 86.45%,  86.45%)
+         long>5GeV :       50 from       51 ( 98.0%,  98.0%)       16 clones ( 32.00%), purity: ( 94.81%,  94.81%),  hitEff: ( 82.27%,  82.27%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        7 from        7 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 96.43%,  96.43%),  hitEff: ( 78.40%,  78.40%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 95.00%,  95.00%),  hitEff: ( 69.76%,  69.76%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+1067 tracks including      413 ghosts ( 38.7%). Event average  38.7%,,,,,
+              velo :      503 from      572 ( 87.9%,  87.9%)      134 clones ( 26.64%), purity: ( 94.70%,  94.70%),  hitEff: ( 83.96%,  83.96%)
+              long :      198 from      209 ( 94.7%,  94.7%)       46 clones ( 23.23%), purity: ( 95.56%,  95.56%),  hitEff: ( 80.14%,  80.14%)
+         long>5GeV :      144 from      148 ( 97.3%,  97.3%)       29 clones ( 20.14%), purity: ( 95.44%,  95.44%),  hitEff: ( 81.51%,  81.51%)
+      long_strange :        8 from        9 ( 88.9%,  88.9%)        1 clones ( 12.50%), purity: ( 89.81%,  89.81%),  hitEff: ( 81.44%,  81.44%)
+ long_strange>5GeV :        8 from        8 ( 100.0%,  100.0%)        1 clones ( 12.50%), purity: ( 89.81%,  89.81%),  hitEff: ( 81.44%,  81.44%)
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        2 clones ( 40.00%), purity: ( 95.36%,  95.36%),  hitEff: ( 85.71%,  85.71%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        2 clones ( 50.00%), purity: ( 94.58%,  94.58%),  hitEff: ( 83.33%,  83.33%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+135 tracks including       11 ghosts (  8.1%). Event average   8.1%,,,,,
+              velo :      108 from      114 ( 94.7%,  94.7%)        9 clones (  8.33%), purity: ( 98.68%,  98.68%),  hitEff: ( 95.07%,  95.07%)
+              long :       37 from       39 ( 94.9%,  94.9%)        7 clones ( 18.92%), purity: ( 97.69%,  97.69%),  hitEff: ( 90.73%,  90.73%)
+         long>5GeV :       28 from       30 ( 93.3%,  93.3%)        6 clones ( 21.43%), purity: ( 97.59%,  97.59%),  hitEff: ( 91.53%,  91.53%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 66.67%,  66.67%)
+None,,,,,
+        long_fromb :       13 from       13 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 98.46%,  98.46%),  hitEff: ( 95.15%,  95.15%)
+   long_fromb>5GeV :       12 from       12 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 96.41%,  96.41%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+420 tracks including       73 ghosts ( 17.4%). Event average  17.4%,,,,,
+              velo :      283 from      307 ( 92.2%,  92.2%)       44 clones ( 15.55%), purity: ( 97.31%,  97.31%),  hitEff: ( 89.16%,  89.16%)
+              long :       77 from       85 ( 90.6%,  90.6%)       16 clones ( 20.78%), purity: ( 97.83%,  97.83%),  hitEff: ( 82.31%,  82.31%)
+         long>5GeV :       48 from       52 ( 92.3%,  92.3%)       13 clones ( 27.08%), purity: ( 97.71%,  97.71%),  hitEff: ( 79.61%,  79.61%)
+      long_strange :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 94.44%,  94.44%),  hitEff: ( 94.44%,  94.44%)
+ long_strange>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 97.44%,  97.44%)
+   long_fromb>5GeV :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 97.44%,  97.44%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+138 tracks including        6 ghosts (  4.3%). Event average   4.3%,,,,,
+              velo :      111 from      114 ( 97.4%,  97.4%)       15 clones ( 13.51%), purity: ( 98.14%,  98.14%),  hitEff: ( 90.71%,  90.71%)
+              long :       54 from       54 ( 100.0%,  100.0%)        9 clones ( 16.67%), purity: ( 98.67%,  98.67%),  hitEff: ( 87.34%,  87.34%)
+         long>5GeV :       29 from       29 ( 100.0%,  100.0%)        5 clones ( 17.24%), purity: ( 98.28%,  98.28%),  hitEff: ( 88.03%,  88.03%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 66.67%,  66.67%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 66.67%,  66.67%)
+        long_fromb :       13 from       13 ( 100.0%,  100.0%)        2 clones ( 15.38%), purity: ( 98.89%,  98.89%),  hitEff: ( 89.23%,  89.23%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 98.18%,  98.18%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+812 tracks including      251 ghosts ( 30.9%). Event average  30.9%,,,,,
+              velo :      439 from      487 ( 90.1%,  90.1%)      106 clones ( 24.15%), purity: ( 95.94%,  95.94%),  hitEff: ( 86.03%,  86.03%)
+              long :      148 from      154 ( 96.1%,  96.1%)       44 clones ( 29.73%), purity: ( 96.73%,  96.73%),  hitEff: ( 79.27%,  79.27%)
+         long>5GeV :       99 from      101 ( 98.0%,  98.0%)       31 clones ( 31.31%), purity: ( 96.42%,  96.42%),  hitEff: ( 80.57%,  80.57%)
+      long_strange :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 96.00%,  96.00%),  hitEff: ( 89.61%,  89.61%)
+ long_strange>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 95.00%,  95.00%),  hitEff: ( 87.01%,  87.01%)
+        long_fromb :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 77.50%,  77.50%)
+   long_fromb>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 50.00%,  50.00%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+394 tracks including       50 ghosts ( 12.7%). Event average  12.7%,,,,,
+              velo :      284 from      301 ( 94.4%,  94.4%)       35 clones ( 12.32%), purity: ( 96.64%,  96.64%),  hitEff: ( 90.89%,  90.89%)
+              long :       89 from       92 ( 96.7%,  96.7%)       17 clones ( 19.10%), purity: ( 95.76%,  95.76%),  hitEff: ( 88.22%,  88.22%)
+         long>5GeV :       52 from       54 ( 96.3%,  96.3%)       13 clones ( 25.00%), purity: ( 94.93%,  94.93%),  hitEff: ( 84.32%,  84.32%)
+      long_strange :        7 from        7 ( 100.0%,  100.0%)        1 clones ( 14.29%), purity: ( 96.88%,  96.88%),  hitEff: ( 96.88%,  96.88%)
+ long_strange>5GeV :        4 from        4 ( 100.0%,  100.0%)        1 clones ( 25.00%), purity: ( 95.00%,  95.00%),  hitEff: ( 95.00%,  95.00%)
+        long_fromb :        7 from        8 ( 87.5%,  87.5%)        3 clones ( 42.86%), purity: ( 90.92%,  90.92%),  hitEff: ( 86.37%,  86.37%)
+   long_fromb>5GeV :        5 from        6 ( 83.3%,  83.3%)        2 clones ( 40.00%), purity: ( 93.06%,  93.06%),  hitEff: ( 85.29%,  85.29%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+290 tracks including       25 ghosts (  8.6%). Event average   8.6%,,,,,
+              velo :      215 from      235 ( 91.5%,  91.5%)       33 clones ( 15.35%), purity: ( 97.92%,  97.92%),  hitEff: ( 89.87%,  89.87%)
+              long :       68 from       69 ( 98.6%,  98.6%)       13 clones ( 19.12%), purity: ( 97.94%,  97.94%),  hitEff: ( 86.51%,  86.51%)
+         long>5GeV :       43 from       43 ( 100.0%,  100.0%)        6 clones ( 13.95%), purity: ( 98.54%,  98.54%),  hitEff: ( 89.18%,  89.18%)
+      long_strange :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+None,,,,,
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        1 clones ( 20.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 80.69%,  80.69%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 98.53%,  98.53%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+761 tracks including      231 ghosts ( 30.4%). Event average  30.4%,,,,,
+              velo :      388 from      439 ( 88.4%,  88.4%)      115 clones ( 29.64%), purity: ( 94.35%,  94.53%),  hitEff: ( 86.06%,  86.06%)
+              long :      115 from      117 ( 98.3%,  98.3%)       35 clones ( 30.43%), purity: ( 95.59%,  95.59%),  hitEff: ( 78.39%,  78.39%)
+         long>5GeV :       79 from       79 ( 100.0%,  100.0%)       24 clones ( 30.38%), purity: ( 95.07%,  95.07%),  hitEff: ( 78.61%,  78.61%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        2 clones ( 100.00%), purity: ( 85.83%,  85.83%),  hitEff: ( 68.33%,  68.33%)
+None,,,,,
+        long_fromb :        4 from        4 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 98.08%,  98.08%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 97.44%,  97.44%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+418 tracks including       65 ghosts ( 15.6%). Event average  15.6%,,,,,
+              velo :      292 from      311 ( 93.9%,  93.9%)       43 clones ( 14.73%), purity: ( 97.01%,  97.01%),  hitEff: ( 88.70%,  88.70%)
+              long :       99 from       99 ( 100.0%,  100.0%)       19 clones ( 19.19%), purity: ( 96.95%,  96.95%),  hitEff: ( 80.71%,  80.71%)
+         long>5GeV :       71 from       71 ( 100.0%,  100.0%)       15 clones ( 21.13%), purity: ( 96.58%,  96.58%),  hitEff: ( 79.91%,  79.91%)
+      long_strange :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 80.00%,  80.00%)
+None,,,,,
+        long_fromb :        7 from        7 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 89.97%,  89.97%),  hitEff: ( 87.07%,  87.07%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 90.95%,  90.95%),  hitEff: ( 91.43%,  91.43%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+357 tracks including       52 ghosts ( 14.6%). Event average  14.6%,,,,,
+              velo :      236 from      256 ( 92.2%,  92.2%)       51 clones ( 21.61%), purity: ( 96.43%,  96.76%),  hitEff: ( 84.87%,  84.87%)
+              long :      102 from      105 ( 97.1%,  97.1%)       24 clones ( 23.53%), purity: ( 97.80%,  97.80%),  hitEff: ( 81.01%,  81.01%)
+         long>5GeV :       73 from       74 ( 98.6%,  98.6%)       17 clones ( 23.29%), purity: ( 97.44%,  97.44%),  hitEff: ( 81.47%,  81.47%)
+      long_strange :        4 from        5 ( 80.0%,  80.0%)        1 clones ( 25.00%), purity: ( 97.14%,  97.14%),  hitEff: ( 92.00%,  92.00%)
+ long_strange>5GeV :        3 from        3 ( 100.0%,  100.0%)        1 clones ( 33.33%), purity: ( 96.43%,  96.43%),  hitEff: ( 90.00%,  90.00%)
+        long_fromb :       12 from       12 ( 100.0%,  100.0%)        2 clones ( 16.67%), purity: ( 95.89%,  95.89%),  hitEff: ( 87.57%,  87.57%)
+   long_fromb>5GeV :       10 from       10 ( 100.0%,  100.0%)        2 clones ( 20.00%), purity: ( 96.40%,  96.40%),  hitEff: ( 85.50%,  85.50%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+164 tracks including        4 ghosts (  2.4%). Event average   2.4%,,,,,
+              velo :      140 from      145 ( 96.6%,  96.6%)       10 clones (  7.14%), purity: ( 98.67%,  98.67%),  hitEff: ( 92.21%,  92.21%)
+              long :       45 from       45 ( 100.0%,  100.0%)        3 clones (  6.67%), purity: ( 98.89%,  98.89%),  hitEff: ( 91.86%,  91.86%)
+         long>5GeV :       25 from       25 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 99.67%,  99.67%),  hitEff: ( 98.85%,  98.85%)
+      long_strange :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 90.48%,  90.48%)
+ long_strange>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 96.15%,  96.15%)
+None,,,,,
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+118 tracks including        4 ghosts (  3.4%). Event average   3.4%,,,,,
+              velo :       95 from       99 ( 96.0%,  96.0%)        8 clones (  8.42%), purity: ( 99.17%,  99.17%),  hitEff: ( 90.74%,  90.74%)
+              long :       49 from       49 ( 100.0%,  100.0%)        6 clones ( 12.24%), purity: ( 99.18%,  99.18%),  hitEff: ( 88.22%,  88.22%)
+         long>5GeV :       30 from       30 ( 100.0%,  100.0%)        2 clones (  6.67%), purity: ( 99.22%,  99.22%),  hitEff: ( 92.34%,  92.34%)
+      long_strange :        3 from        3 ( 100.0%,  100.0%)        1 clones ( 33.33%), purity: ( 100.00%,  100.00%),  hitEff: ( 75.00%,  75.00%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 91.00%,  91.00%)
+   long_fromb>5GeV :        3 from        3 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 91.67%,  91.67%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+192 tracks including       17 ghosts (  8.9%). Event average   8.9%,,,,,
+              velo :      149 from      161 ( 92.5%,  92.5%)       17 clones ( 11.41%), purity: ( 98.90%,  98.90%),  hitEff: ( 92.26%,  92.26%)
+              long :       45 from       47 ( 95.7%,  95.7%)        8 clones ( 17.78%), purity: ( 98.04%,  98.04%),  hitEff: ( 87.88%,  87.88%)
+         long>5GeV :       28 from       29 ( 96.6%,  96.6%)        6 clones ( 21.43%), purity: ( 97.83%,  97.83%),  hitEff: ( 86.55%,  86.55%)
+None,,,,,
+None,,,,,
+        long_fromb :       10 from       10 ( 100.0%,  100.0%)        5 clones ( 50.00%), purity: ( 95.52%,  95.52%),  hitEff: ( 82.24%,  82.24%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%,  100.0%)        4 clones ( 57.14%), purity: ( 94.80%,  94.80%),  hitEff: ( 77.43%,  77.43%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+534 tracks including       94 ghosts ( 17.6%). Event average  17.6%,,,,,
+              velo :      341 from      383 ( 89.0%,  89.0%)       66 clones ( 19.35%), purity: ( 96.37%,  96.37%),  hitEff: ( 87.56%,  87.56%)
+              long :      114 from      118 ( 96.6%,  96.6%)       25 clones ( 21.93%), purity: ( 96.68%,  96.68%),  hitEff: ( 83.82%,  83.82%)
+         long>5GeV :       87 from       90 ( 96.7%,  96.7%)       22 clones ( 25.29%), purity: ( 96.31%,  96.31%),  hitEff: ( 82.83%,  82.83%)
+      long_strange :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        1 from        1 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 50.00%,  50.00%)
+   long_fromb>5GeV :        2 from        2 ( 100.0%,  100.0%)        1 clones ( 50.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 50.00%,  50.00%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+110 tracks including        1 ghosts (  0.9%). Event average   0.9%,,,,,
+              velo :       98 from      104 ( 94.2%,  94.2%)        7 clones (  7.14%), purity: ( 99.52%,  99.52%),  hitEff: ( 92.37%,  92.37%)
+              long :       37 from       37 ( 100.0%,  100.0%)        4 clones ( 10.81%), purity: ( 99.39%,  99.39%),  hitEff: ( 88.49%,  88.49%)
+         long>5GeV :       25 from       25 ( 100.0%,  100.0%)        2 clones (  8.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 91.11%,  91.11%)
+None,,,,,
+None,,,,,
+        long_fromb :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 92.00%,  92.00%)
+   long_fromb>5GeV :        5 from        5 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 92.00%,  92.00%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+398 tracks including       37 ghosts (  9.3%). Event average   9.3%,,,,,
+              velo :      293 from      311 ( 94.2%,  94.2%)       59 clones ( 20.14%), purity: ( 97.06%,  97.06%),  hitEff: ( 90.05%,  90.05%)
+              long :       83 from       85 ( 97.6%,  97.6%)       15 clones ( 18.07%), purity: ( 96.37%,  96.37%),  hitEff: ( 87.56%,  87.56%)
+         long>5GeV :       53 from       55 ( 96.4%,  96.4%)       10 clones ( 18.87%), purity: ( 95.58%,  95.58%),  hitEff: ( 87.04%,  87.04%)
+      long_strange :        4 from        5 ( 80.0%,  80.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+ long_strange>5GeV :        2 from        3 ( 66.7%,  66.7%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        7 from        7 ( 100.0%,  100.0%)        2 clones ( 28.57%), purity: ( 95.93%,  95.93%),  hitEff: ( 94.44%,  94.44%)
+   long_fromb>5GeV :        7 from        7 ( 100.0%,  100.0%)        2 clones ( 28.57%), purity: ( 95.93%,  95.93%),  hitEff: ( 94.44%,  94.44%)
+,,,,,
+Invoking graph dfs with,,,,,
+ max slopes: (0.7, 0.7),,,,
+ max tolerance: (0.4, 0.4),,,,
+ max scatter: 0.4,,,,,
+ weight assignment iterations: 2,,,,,
+ minimum root weight: 1,,,,,
+ allow cross track: True,,,,,
+ allowed skip sensors: 1 (its behaviour depends on allow cross track),,,,,
+ clone ghost killing: True,,,,,
+,,,,,
+,,,,,
+dfs method validation,,,,,
+524 tracks including       94 ghosts ( 17.9%). Event average  17.9%,,,,,
+              velo :      329 from      369 ( 89.2%,  89.2%)       83 clones ( 25.23%), purity: ( 95.27%,  95.27%),  hitEff: ( 88.34%,  88.34%)
+              long :       88 from       91 ( 96.7%,  96.7%)       24 clones ( 27.27%), purity: ( 95.19%,  95.19%),  hitEff: ( 82.72%,  82.72%)
+         long>5GeV :       59 from       61 ( 96.7%,  96.7%)       20 clones ( 33.90%), purity: ( 94.52%,  94.52%),  hitEff: ( 80.34%,  80.34%)
+      long_strange :        5 from        5 ( 100.0%,  100.0%)        1 clones ( 20.00%), purity: ( 95.83%,  95.83%),  hitEff: ( 87.18%,  87.18%)
+ long_strange>5GeV :        2 from        2 ( 100.0%,  100.0%)        0 clones (  0.00%), purity: ( 100.00%,  100.00%),  hitEff: ( 100.00%,  100.00%)
+        long_fromb :        4 from        4 ( 100.0%,  100.0%)        4 clones ( 100.00%), purity: ( 88.75%,  88.75%),  hitEff: ( 70.49%,  70.49%)
+   long_fromb>5GeV :        4 from        4 ( 100.0%,  100.0%)        4 clones ( 100.00%), purity: ( 88.75%,  88.75%),  hitEff: ( 70.49%,  70.49%)

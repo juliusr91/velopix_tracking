@@ -219,29 +219,16 @@ class CellularAutomaton(object):
         local_tracks = []
         in_loop = False
 
-        #TODO dont we have the left neighbours already?
-        index = index - 2
-        n_doublets = []
-        for previous_doublets in self.doublets[index]:
-            for doublet in previous_doublets:
-                if self.calculate_shared_point(right_doublet, doublet):
-                    try:
-                        if self.check_tolerance(doublet.starting_point, doublet.ending_point,
-                                                right_doublet.ending_point):
-                            n_doublets.append(doublet)
-                    except:
-                        print(doublet.ending_point, right_doublet.starting_point, right_doublet.ending_point)
-
-
         #only goes to the second doublet and not the first
-        for n_doublet in n_doublets:
+        for n_doublet in right_doublet.left_neighbours:
+            neighbour_doublet = self.doublets[n_doublet[0]][n_doublet[1]][n_doublet[2]]
+            if neighbour_doublet.state < right_doublet.state and not neighbour_doublet.used:
             # if (n_doublet.state + 1 == right_doublet.state) and not n_doublet.used:
             # if (n_doublet.state + 1 == right_doublet.state or n_doublet.state + 2 == right_doublet.state) and not n_doublet.used:
-            if n_doublet.state < right_doublet.state and not n_doublet.used:
                 in_loop = True
-                chi2 = self.calculate_chi2(n_doublet.starting_point, n_doublet.ending_point, right_doublet.ending_point)
-                local_track.add_hit(n_doublet.starting_point, chi2)
-                local_tracks += self.extract_next_segment(n_doublet, index, local_track)
+                chi2 = self.calculate_chi2(neighbour_doublet.starting_point, neighbour_doublet.ending_point, right_doublet.ending_point)
+                local_track.add_hit(neighbour_doublet.starting_point, chi2)
+                local_tracks += self.extract_next_segment(neighbour_doublet, index, local_track)
 
         if in_loop:
             return local_tracks
@@ -321,7 +308,7 @@ class CellularAutomaton(object):
                     self.used_hits.append(hits.id)
                 self.long_tracks.append(track)
 
-    def solve(self, event):
+    def solve_without_Profiling(self, event):
 
         """
         main function
@@ -340,39 +327,102 @@ class CellularAutomaton(object):
         """
 
         # 1. Creates all possible and applicable doublets
-        start = time.clock()
+        # start = time.clock()
         self.make_doublets(event)
-        print("making doublets took: ", time.clock()-start)
+        # print("making doublets took: ", time.clock()-start)
 
         #2. searches for all the left neighbours of these doublets
-        start = time.clock()
+        # start = time.clock()
         self.make_left_neighbours()
-        print("making neighbours took: ", time.clock() - start)
+        # print("making neighbours took: ", time.clock() - start)
 
         #3. Runs the Cellular Automaton (CA)
-        start = time.clock()
+        # start = time.clock()
         self.Ca()
-        print("ca took: ", time.clock() - start)
+        # print("ca took: ", time.clock() - start)
 
         #4. Extract all possible tracks of the CA
-        start = time.clock()
+        # start = time.clock()
         self.extract_tracks()
         # print(self.collected_tracks)
-        print("extracting took: ", time.clock() - start)
+        # print("extracting took: ", time.clock() - start)
 
         # 5. remove short tracks
-        start = time.clock()
+        # start = time.clock()
         self.remove_shorttracks(2) #keeps everything longer than 2
-        print("removing shorttracks took: ", time.clock() - start)
+        # print("removing shorttracks took: ", time.clock() - start)
 
         #6. Removes Clones and Ghost Tracks
-        start = time.clock()
+        # start = time.clock()
         self.remove_ghosts_clones()  # keeps everything longer than 2
-        print("removing ghost_clones took: ", time.clock() - start)
+        # print("removing ghost_clones took: ", time.clock() - start)
 
 
         #Possible visualisation of the segments and the tracks found
         # vis = CaVisualizer(self.doublets, self.long_tracks)
         # vis.visualize_segments()
         # vis.visualize_found_tracks()
-        return (self.long_tracks)
+        return (self.long_tracks, [])
+
+    def solve_with_profiling(self,event):
+
+        """
+        main function
+
+        1. Creates all possible and applicable doublets
+
+        2. searches for all the left neighbours of these doublets
+
+        3. Runs the Cellular Automaton (CA)
+
+        4. Extract all possible tracks of the CA
+
+        5. remove short tracks
+
+        6. Removes Clones and Ghost Tracks
+        """
+        part_times = []
+
+        # 1. Creates all possible and applicable doublets
+        start = time.clock()
+        self.make_doublets(event)
+        # print("making doublets took: ", time.clock()-start)
+        part_times.append(time.clock()-start)
+
+        #2. searches for all the left neighbours of these doublets
+        start = time.clock()
+        self.make_left_neighbours()
+        # print("making neighbours took: ", time.clock() - start)
+        part_times.append(time.clock() - start)
+
+        #3. Runs the Cellular Automaton (CA)
+        start = time.clock()
+        self.Ca()
+        # print("ca took: ", time.clock() - start)
+        part_times.append(time.clock() - start)
+
+        #4. Extract all possible tracks of the CA
+        start = time.clock()
+        self.extract_tracks()
+        # print(self.collected_tracks)
+        # print("extracting took: ", time.clock() - start)
+        part_times.append(time.clock() - start)
+
+        # 5. remove short tracks
+        start = time.clock()
+        self.remove_shorttracks(2) #keeps everything longer than 2
+        # print("removing shorttracks took: ", time.clock() - start)
+        part_times.append(time.clock() - start)
+
+        #6. Removes Clones and Ghost Tracks
+        start = time.clock()
+        self.remove_ghosts_clones()  # keeps everything longer than 2
+        # print("removing ghost_clones took: ", time.clock() - start)
+        part_times.append(time.clock() - start)
+
+
+        #Possible visualisation of the segments and the tracks found
+        # vis = CaVisualizer(self.doublets, self.long_tracks)
+        # vis.visualize_segments()
+        # vis.visualize_found_tracks()
+        return (self.long_tracks, part_times)

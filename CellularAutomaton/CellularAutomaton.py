@@ -193,7 +193,7 @@ class CellularAutomaton(object):
                 for doublets in sensor:
                     for doublet in doublets:
                         changes += self.check_neighbour(doublet, index)
-            print(changes, file=sys.stderr)
+            # print(changes, file=sys.stderr)
 
             for index, sensor in enumerate(self.doublets[NEXT_SENSOR:]):
                 for doublets in sensor:

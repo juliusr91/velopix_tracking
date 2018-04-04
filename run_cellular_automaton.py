@@ -54,7 +54,7 @@ for file in os.listdir("velojson"):
         f.close()
 
 
-        for a in range(1):
+        for a in range(5):
             # current_run = []
             # Solve with the classic method
             # classical = classical_solver()
@@ -74,15 +74,15 @@ for file in os.listdir("velojson"):
             # solutions["CA"], time_parts = ca.solve_with_profiling(event)
             solutions["CA"], time_parts = ca.solve_without_Profiling(event)
 
-            time_parts.append(time.clock() - start)
-            time_parts.append(event.number_of_hits)
-            time_parts.append(max([(len(i.hits())) for i in event.sensors]))
-            all_times.append(time_parts)
+            # time_parts.append(time.clock() - start)
+            # time_parts.append(event.number_of_hits)
+            # time_parts.append(max([(len(i.hits())) for i in event.sensors]))
+            # all_times.append(time_parts)
 
-            for k, v in iter(sorted(solutions.items())):
-                print("%s method validation" % (k))
-                vl.validate_print([json_data], [v])
-                # print()
+            # for k, v in iter(sorted(solutions.items())):
+            #     print("%s method validation" % (k))
+            #     vl.validate_print([json_data], [v])
+            #     # print()
         print("File " + str(index) + " done", file=sys.stderr)
         index += 1
 
